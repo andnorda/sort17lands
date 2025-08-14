@@ -5,4 +5,5 @@ export type CardRating = {
   seen_at?: string | null; // optional metadata fields if present
   rarity?: string | null;
   id_hash?: string | null; // use as a stable key if available
+  mtga_id: number; // used to derive 2-char code
 };

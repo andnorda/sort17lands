@@ -1,15 +1,6 @@
 import { CURRENT_SET_CODE } from "./config";
 import { CardRating } from "../types/ratings";
 
-function isValidRow(row: unknown): row is CardRating {
-  if (!row || typeof row !== "object") return false;
-  const maybe: Record<string, unknown> = row as Record<string, unknown>;
-  if (typeof maybe.name !== "string") return false;
-  const edwr = Number(maybe.ever_drawn_win_rate);
-  if (!Number.isFinite(edwr)) return false;
-  return true;
-}
-
 export async function getCachedCardRatings(): Promise<CardRating[]> {
   const url = `https://www.17lands.com/card_ratings/data?expansion=${CURRENT_SET_CODE}&format=premierdraft`;
   const res = await fetch(url, { next: { revalidate: 3600 } });
@@ -22,16 +13,16 @@ export async function getCachedCardRatings(): Promise<CardRating[]> {
   }
   const filtered: CardRating[] = [];
   for (const row of data) {
-    if (isValidRow(row)) {
-      filtered.push({
-        name: row.name,
-        color: row.color ?? null,
-        ever_drawn_win_rate: Number(row.ever_drawn_win_rate),
-        seen_at: row.seen_at ?? null,
-        rarity: row.rarity ?? null,
-        id_hash: row.id_hash ?? null,
-      });
-    }
+    const raw = row as Record<string, unknown>;
+    filtered.push({
+      name: (raw.name as string) ?? "",
+      color: (raw.color as string | null) ?? null,
+      ever_drawn_win_rate: row.ever_drawn_win_rate,
+      seen_at: (raw.seen_at as string | null) ?? null,
+      rarity: (raw.rarity as string | null) ?? null,
+      id_hash: (raw.id_hash as string | null) ?? null,
+      mtga_id: Number(raw.mtga_id),
+    });
   }
   return filtered;
 }

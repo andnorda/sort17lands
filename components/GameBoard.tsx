@@ -10,12 +10,16 @@ import { useRouter } from "next/navigation";
 
 type GameBoardProps = {
   cards: CardRating[];
+  nextHref?: string;
 };
 
-export default function GameBoard({ cards }: GameBoardProps) {
+export default function GameBoard({ cards, nextHref }: GameBoardProps) {
   const router = useRouter();
   const [order, setOrder] = useState<CardRating[]>(() => [...cards]);
   const [revealed, setRevealed] = useState(false);
+  const [submittedOrder, setSubmittedOrder] = useState<CardRating[] | null>(
+    null
+  );
 
   const moveCard = useCallback((from: number, to: number) => {
     setOrder((curr) => {
@@ -28,7 +32,10 @@ export default function GameBoard({ cards }: GameBoardProps) {
 
   const solution = useMemo(() => sortByEverDrawnWinRateDesc(cards), [cards]);
 
-  const handleSubmit = () => setRevealed(true);
+  const handleSubmit = () => {
+    setSubmittedOrder(order);
+    setRevealed(true);
+  };
   const handleNextRound = () => {
     setRevealed(false);
     router.refresh();
@@ -52,24 +59,54 @@ export default function GameBoard({ cards }: GameBoardProps) {
         )}
 
         {revealed && (
-          <div style={{ display: "grid", gap: 8 }}>
-            {solution.map((card, index) => (
-              <CardRow
-                key={card.id_hash ?? `${card.name}-${index}`}
-                card={card}
-                index={index}
-                moveCard={() => {}}
-                isRevealed
-              />
-            ))}
+          <div
+            style={{
+              display: "grid",
+              gridTemplateColumns: "1fr 1fr",
+              gap: 16,
+              alignItems: "start",
+            }}
+          >
+            <div style={{ display: "grid", gap: 8 }}>
+              <div style={{ fontWeight: 600 }}>Your order</div>
+              {(submittedOrder ?? order).map((card, index) => (
+                <CardRow
+                  key={`you-${card.id_hash ?? `${card.name}-${index}`}`}
+                  card={card}
+                  index={index}
+                  moveCard={() => {}}
+                  isRevealed
+                />
+              ))}
+            </div>
+            <div style={{ display: "grid", gap: 8 }}>
+              <div style={{ fontWeight: 600 }}>Correct order</div>
+              {solution.map((card, index) => (
+                <CardRow
+                  key={`sol-${card.id_hash ?? `${card.name}-${index}`}`}
+                  card={card}
+                  index={index}
+                  moveCard={() => {}}
+                  isRevealed
+                />
+              ))}
+            </div>
           </div>
         )}
 
         <div style={{ display: "flex", gap: 12, marginTop: 8 }}>
           {!revealed ? (
-            <button onClick={handleSubmit} style={buttonStyle}>Submit</button>
+            <button onClick={handleSubmit} style={buttonStyle}>
+              Submit
+            </button>
+          ) : nextHref ? (
+            <a href={nextHref} style={linkButtonStyle}>
+              Next round
+            </a>
           ) : (
-            <button onClick={handleNextRound} style={buttonStyle}>Next round</button>
+            <button onClick={handleNextRound} style={buttonStyle}>
+              Next round
+            </button>
           )}
         </div>
       </div>
@@ -86,4 +123,8 @@ const buttonStyle: React.CSSProperties = {
   cursor: "pointer",
 };
 
-
+const linkButtonStyle: React.CSSProperties = {
+  ...buttonStyle,
+  display: "inline-block",
+  textDecoration: "none",
+};

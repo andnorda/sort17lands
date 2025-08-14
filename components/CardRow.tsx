@@ -13,7 +13,12 @@ type CardRowProps = {
 
 const ITEM_TYPE = "CARD_ROW";
 
-export default function CardRow({ card, index, moveCard, isRevealed }: CardRowProps) {
+export default function CardRow({
+  card,
+  index,
+  moveCard,
+  isRevealed,
+}: CardRowProps) {
   const ref = useRef<HTMLDivElement | null>(null);
 
   const [, drop] = useDrop({
@@ -56,11 +61,16 @@ export default function CardRow({ card, index, moveCard, isRevealed }: CardRowPr
       <div style={{ fontWeight: 600 }}>{card.name}</div>
       {isRevealed && (
         <div style={{ fontVariantNumeric: "tabular-nums" }}>
-          {card.ever_drawn_win_rate.toFixed(2)}%
+          {formatWinRate(card.ever_drawn_win_rate)}
         </div>
       )}
     </div>
   );
 }
 
-
+function formatWinRate(value: number): string {
+  // 17Lands provides ever_drawn_win_rate typically as a fraction (0..1) or percentage (0..100).
+  // Normalize to percentage display.
+  const pct = value <= 1 ? value * 100 : value;
+  return `${pct.toFixed(2)}%`;
+}

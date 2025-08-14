@@ -1,36 +1,25 @@
-import GameBoard from "../components/GameBoard";
+import { redirect } from "next/navigation";
 import { getCachedCardRatings } from "../lib/fetchRatings";
 import { pickRandomCards } from "../lib/random";
 import { CardRating } from "../types/ratings";
+import { CURRENT_SET_CODE } from "../lib/config";
+import { buildMtgaIdToCode, encodeGameCode } from "../lib/gameCode";
+export const dynamic = "force-dynamic";
 
 export default async function Home() {
-  let five: CardRating[] = [];
+  let redirectPath = null;
   try {
     const ratings = await getCachedCardRatings();
-    five = pickRandomCards<CardRating>(ratings, 5);
-  } catch {
-    // render a minimal retry UI on failure
-    return (
-      <div style={{ display: "grid", placeItems: "center", minHeight: "80vh" }}>
-        <div style={{ display: "grid", gap: 12, textAlign: "center" }}>
-          <div>Failed to load ratings.</div>
-          <form>
-            <button formAction={() => {}} onClick={() => {}}>
-              Retry
-            </button>
-          </form>
-        </div>
-      </div>
-    );
+    const five = pickRandomCards<CardRating>(ratings, 5);
+    const idToCode = buildMtgaIdToCode(ratings);
+    const code = encodeGameCode(five, idToCode);
+    redirectPath = `/${CURRENT_SET_CODE}/${code}`;
+  } catch (e) {
+    console.error(e);
+    redirectPath = `/${CURRENT_SET_CODE}/error`;
+  } finally {
+    if (redirectPath) {
+      redirect(redirectPath);
+    }
   }
-
-  return (
-    <div style={{ display: "grid", placeItems: "center", padding: 32 }}>
-      <div style={{ maxWidth: 820, width: "100%", display: "grid", gap: 16 }}>
-        <h1 style={{ fontSize: 24 }}>Order the cards by Ever Drawn Win Rate</h1>
-        <p style={{ opacity: 0.8 }}>Drag to reorder from highest to lowest, then submit.</p>
-        <GameBoard cards={five} />
-      </div>
-    </div>
-  );
 }
