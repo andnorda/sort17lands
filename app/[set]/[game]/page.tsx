@@ -38,7 +38,7 @@ export default async function GamePage({
             Order the cards by Ever Drawn Win Rate
           </h1>
           <p style={{ opacity: 0.8 }}>
-            Drag to reorder from highest to lowest, then submit.
+            Drag to reorder from lowest to highest, then submit.
           </p>
           <GameBoard key={game} cards={cards} nextHref={nextHref} />
         </div>

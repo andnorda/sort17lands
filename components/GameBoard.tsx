@@ -5,7 +5,7 @@ import type { CardRating } from "../types/ratings";
 import { DndProvider } from "react-dnd";
 import { HTML5Backend } from "react-dnd-html5-backend";
 import CardRow from "./CardRow";
-import { sortByEverDrawnWinRateDesc } from "../lib/sort";
+import { sortByEverDrawnWinRateAsc } from "../lib/sort";
 import { useRouter } from "next/navigation";
 
 type GameBoardProps = {
@@ -30,7 +30,7 @@ export default function GameBoard({ cards, nextHref }: GameBoardProps) {
     });
   }, []);
 
-  const solution = useMemo(() => sortByEverDrawnWinRateDesc(cards), [cards]);
+  const solution = useMemo(() => sortByEverDrawnWinRateAsc(cards), [cards]);
 
   const handleSubmit = () => {
     setSubmittedOrder(order);
@@ -45,7 +45,7 @@ export default function GameBoard({ cards, nextHref }: GameBoardProps) {
     <DndProvider backend={HTML5Backend}>
       <div style={{ maxWidth: 720, width: "100%", display: "grid", gap: 12 }}>
         {!revealed && (
-          <div style={{ display: "grid", gap: 8 }}>
+          <div style={{ display: "flex", gap: 12, justifyContent: "center" }}>
             {order.map((card, index) => (
               <CardRow
                 key={card.id_hash ?? `${card.name}-${index}`}
@@ -59,16 +59,8 @@ export default function GameBoard({ cards, nextHref }: GameBoardProps) {
         )}
 
         {revealed && (
-          <div
-            style={{
-              display: "grid",
-              gridTemplateColumns: "1fr 1fr",
-              gap: 16,
-              alignItems: "start",
-            }}
-          >
-            <div style={{ display: "grid", gap: 8 }}>
-              <div style={{ fontWeight: 600 }}>Your order</div>
+          <div style={{ display: "grid", gap: 16 }}>
+            <div style={{ display: "flex", gap: 12, justifyContent: "center" }}>
               {(submittedOrder ?? order).map((card, index) => (
                 <CardRow
                   key={`you-${card.id_hash ?? `${card.name}-${index}`}`}
@@ -79,8 +71,7 @@ export default function GameBoard({ cards, nextHref }: GameBoardProps) {
                 />
               ))}
             </div>
-            <div style={{ display: "grid", gap: 8 }}>
-              <div style={{ fontWeight: 600 }}>Correct order</div>
+            <div style={{ display: "flex", gap: 12, justifyContent: "center" }}>
               {solution.map((card, index) => (
                 <CardRow
                   key={`sol-${card.id_hash ?? `${card.name}-${index}`}`}
@@ -88,6 +79,7 @@ export default function GameBoard({ cards, nextHref }: GameBoardProps) {
                   index={index}
                   moveCard={() => {}}
                   isRevealed
+                  showWinRate
                 />
               ))}
             </div>

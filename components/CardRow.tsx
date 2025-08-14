@@ -3,12 +3,14 @@
 import { useRef } from "react";
 import { useDrag, useDrop } from "react-dnd";
 import type { CardRating } from "../types/ratings";
+import Image from "next/image";
 
 type CardRowProps = {
   card: CardRating;
   index: number;
   moveCard: (from: number, to: number) => void;
   isRevealed: boolean;
+  showWinRate?: boolean;
 };
 
 const ITEM_TYPE = "CARD_ROW";
@@ -18,6 +20,7 @@ export default function CardRow({
   index,
   moveCard,
   isRevealed,
+  showWinRate,
 }: CardRowProps) {
   const ref = useRef<HTMLDivElement | null>(null);
 
@@ -36,6 +39,7 @@ export default function CardRow({
   const [{ isDragging }, drag] = useDrag({
     type: ITEM_TYPE,
     item: { index },
+    canDrag: !isRevealed,
     collect: (monitor) => ({
       isDragging: monitor.isDragging(),
     }),
@@ -48,19 +52,32 @@ export default function CardRow({
       ref={ref}
       style={{
         opacity: isDragging ? 0.5 : 1,
-        padding: 12,
-        border: "1px solid rgba(0,0,0,0.1)",
-        borderRadius: 8,
-        background: "var(--background)",
-        display: "flex",
-        alignItems: "center",
-        justifyContent: "space-between",
         cursor: isRevealed ? "default" : "grab",
+        display: "grid",
+        gap: 6,
+        justifyItems: "center",
       }}
     >
-      <div style={{ fontWeight: 600 }}>{card.name}</div>
-      {isRevealed && (
-        <div style={{ fontVariantNumeric: "tabular-nums" }}>
+      {card.url ? (
+        <Image
+          src={card.url}
+          alt={card.name}
+          width={120}
+          height={168}
+          style={{ objectFit: "cover", borderRadius: 6 }}
+        />
+      ) : (
+        <div
+          style={{
+            width: 120,
+            height: 168,
+            background: "#eaeaea",
+            borderRadius: 6,
+          }}
+        />
+      )}
+      {showWinRate && (
+        <div style={{ fontVariantNumeric: "tabular-nums", fontSize: 14 }}>
           {formatWinRate(card.ever_drawn_win_rate)}
         </div>
       )}

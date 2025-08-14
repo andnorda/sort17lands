@@ -6,4 +6,6 @@ export type CardRating = {
   rarity?: string | null;
   id_hash?: string | null; // use as a stable key if available
   mtga_id: number; // used to derive 2-char code
+  url?: string | null; // card image url (front)
+  url_back?: string | null; // card back image if any
 };

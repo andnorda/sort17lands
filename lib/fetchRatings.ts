@@ -14,13 +14,17 @@ export async function getCachedCardRatings(): Promise<CardRating[]> {
   const filtered: CardRating[] = [];
   for (const row of data) {
     const raw = row as Record<string, unknown>;
+    const edwrRaw = Number(raw["ever_drawn_win_rate"]);
+    const ever_drawn_win_rate = Number.isFinite(edwrRaw) ? edwrRaw : 0;
     filtered.push({
       name: (raw.name as string) ?? "",
       color: (raw.color as string | null) ?? null,
-      ever_drawn_win_rate: row.ever_drawn_win_rate,
+      ever_drawn_win_rate,
       seen_at: (raw.seen_at as string | null) ?? null,
       rarity: (raw.rarity as string | null) ?? null,
       id_hash: (raw.id_hash as string | null) ?? null,
+      url: (raw.url as string | null) ?? null,
+      url_back: (raw.url_back as string | null) ?? null,
       mtga_id: Number(raw.mtga_id),
     });
   }
