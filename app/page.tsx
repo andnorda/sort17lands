@@ -1,22 +1,22 @@
 import { redirect } from "next/navigation";
+import { CURRENT_SET_CODE } from "../lib/config";
 import { getCachedCardRatings } from "../lib/fetchRatings";
 import { pickRandomCards } from "../lib/random";
 import { CardRating } from "../types/ratings";
-import { CURRENT_SET_CODE } from "../lib/config";
-import { buildMtgaIdToCode, encodeGameCode } from "../lib/gameCode";
 export const dynamic = "force-dynamic";
 
+const generateGameCode = async () => {
+  const ratings = await getCachedCardRatings();
+  const five = pickRandomCards<CardRating>(ratings, 5);
+  return five.map((c) => c.id).join("");
+};
+
 export default async function Home() {
-  let redirectPath = null;
+  let redirectPath = "/error";
   try {
-    const ratings = await getCachedCardRatings();
-    const five = pickRandomCards<CardRating>(ratings, 5);
-    const idToCode = buildMtgaIdToCode(ratings);
-    const code = encodeGameCode(five, idToCode);
-    redirectPath = `/${CURRENT_SET_CODE}/${code}`;
+    redirectPath = `/${CURRENT_SET_CODE.toLocaleLowerCase()}/${await generateGameCode()}`;
   } catch (e) {
     console.error(e);
-    redirectPath = `/${CURRENT_SET_CODE}/error`;
   } finally {
     if (redirectPath) {
       redirect(redirectPath);

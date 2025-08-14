@@ -1,14 +1,9 @@
+import Link from "next/link";
+import { notFound } from "next/navigation";
 import GameBoard from "../../../components/GameBoard";
 import { getCachedCardRatings } from "../../../lib/fetchRatings";
-import { CardRating } from "../../../types/ratings";
-import {
-  decodeGameCode,
-  buildMtgaIdToCode,
-  encodeGameCode,
-} from "../../../lib/gameCode";
 import { pickRandomCards } from "../../../lib/random";
-import { notFound } from "next/navigation";
-import Link from "next/link";
+import { CardRating } from "../../../types/ratings";
 
 export default async function GamePage({
   params,
@@ -22,12 +17,14 @@ export default async function GamePage({
   // This keeps URLs clean and aligned with the current season.
   try {
     const ratings = await getCachedCardRatings();
-    const cards = decodeGameCode(game, ratings);
+    const cards = game
+      .match(/.{1,2}/g)
+      ?.map((id) => ratings.find((c) => c.id === id)!);
+
     if (!cards) return notFound();
 
-    const idToCode = buildMtgaIdToCode(ratings);
-    const nextFive = pickRandomCards<CardRating>(ratings, 5);
-    const nextCode = encodeGameCode(nextFive, idToCode);
+    const five = pickRandomCards<CardRating>(ratings, 5);
+    const nextCode = five.map((c) => c.id).join("");
     const { set } = await params;
     const nextHref = `/${set}/${nextCode}`;
 

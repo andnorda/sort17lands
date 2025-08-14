@@ -48,7 +48,7 @@ export default function GameBoard({ cards, nextHref }: GameBoardProps) {
           <div style={{ display: "flex", gap: 12, justifyContent: "center" }}>
             {order.map((card, index) => (
               <CardRow
-                key={card.id_hash ?? `${card.name}-${index}`}
+                key={card.id}
                 card={card}
                 index={index}
                 moveCard={moveCard}
@@ -63,7 +63,7 @@ export default function GameBoard({ cards, nextHref }: GameBoardProps) {
             <div style={{ display: "flex", gap: 12, justifyContent: "center" }}>
               {(submittedOrder ?? order).map((card, index) => (
                 <CardRow
-                  key={`you-${card.id_hash ?? `${card.name}-${index}`}`}
+                  key={`you-${card.id}`}
                   card={card}
                   index={index}
                   moveCard={() => {}}
@@ -74,7 +74,7 @@ export default function GameBoard({ cards, nextHref }: GameBoardProps) {
             <div style={{ display: "flex", gap: 12, justifyContent: "center" }}>
               {solution.map((card, index) => (
                 <CardRow
-                  key={`sol-${card.id_hash ?? `${card.name}-${index}`}`}
+                  key={`sol-${card.id}`}
                   card={card}
                   index={index}
                   moveCard={() => {}}
