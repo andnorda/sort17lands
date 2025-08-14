@@ -1,0 +1,122 @@
+---
+alwaysApply: true
+---
+
+# High Level Project Plan
+
+### High-level architecture
+
+- **Server data layer**: Server-side fetch of 17Lands ratings with a 1-hour cache window; never fetch from client.
+- **Page composition**: Server component selects 5 random cards and passes them to a client game component.
+- **Client game**: Drag-and-drop ordering, submit to reveal correct order and ratings, “Next round” forces a re-render to get a new server-selected set.
+- **Deployment**: Next.js 14 App Router on Vercel.
+
+### Data and caching
+
+- **Source**: `https://www.17lands.com/card_ratings/data?expansion={SET_CODE}&format=premierdraft`
+- **Set code**: Hardcode current set in a small config module; optionally move to env var later.
+- **Caching**:
+  - Use Next’s server `fetch` with `{ next: { revalidate: 3600 } }` to cache the remote response for up to 1 hour.
+  - Wrap in a helper function in `lib/fetchRatings.ts`.
+  - Sample the 5 random cards on the server per request to avoid sending the entire dataset to the client.
+
+### Pages and components
+
+- **`app/page.tsx` (Server Component)**:
+  - Calls `getCachedCardRatings()` to fetch ratings (cached).
+  - Calls a server utility `pickRandomCards(ratings, 5)`.
+  - Renders a client component `GameBoard` with those 5 cards.
+  - “Next round” will trigger `router.refresh()` in the client to re-run the server logic without busting cache (still within 1 hour).
+- **`components/GameBoard.tsx` (Client Component)**:
+  - Manages DnD state and submission UI.
+  - On submit: compute sorted-by `ever_drawn_win_rate` descending; show correct order and EDR values.
+  - Highlight differences (e.g., green for correct placement, neutral otherwise).
+  - Show a “Next round” button that calls `router.refresh()` to get a fresh set from the server.
+- **`components/CardRow.tsx` (Client Component)**:
+  - A single card row with drag handle; shows name and, after submit, `ever_drawn_win_rate` with fixed precision.
+- **Drag and drop**:
+  - Use `react-dnd` with `HTML5Backend`.
+  - Minimalism: vertical list reordering with pointer only (desktop-only v1).
+
+### Types and utilities
+
+- **Types**: Define a `CardRating` TypeScript type matching 17Lands row fields we actually use (`name`, `color`, `ever_drawn_win_rate`, and any key identifiers available in the dataset).
+- **Utilities (`lib/`)**:
+  - `fetchRatings.ts`: cached fetch; parse and validate JSON; return typed array.
+  - `random.ts`: `pickRandomCards<T>(arr: T[], k: number)` with uniform sampling without replacement.
+  - `sort.ts`: `sortByEverDrawnWinRateDesc(cards: CardRating[])`.
+
+### Styling and layout
+
+- Desktop-only responsive width (e.g., centered column max-width).
+- Use `app/page.module.css` for basic styles; no theming in v1.
+- Visual clarity:
+  - Card rows with subtle borders/shadows.
+  - After submit, show the sorted list with win rates; optionally inline comparison markers.
+
+### Interactions and state
+
+- **Round lifecycle**:
+  - Initial: user sees 5 cards in random order (could be pre-shuffled).
+  - User reorders via DnD.
+  - Submit: lock current order, compute and display correct order with ratings.
+  - “Next round”: refresh page to get 5 new server-selected cards.
+- **No scoring/timers** in v1.
+- **Error states**:
+  - If data fetch fails, show a simple retry button that `router.refresh()`.
+
+### File plan
+
+- `lib/fetchRatings.ts`: cached fetch of 17Lands data (revalidate 3600).
+- `lib/random.ts`: helper for sampling.
+- `lib/sort.ts`: sorting helper.
+- `lib/config.ts`: export `CURRENT_SET_CODE`.
+- `types/ratings.ts`: `CardRating` type.
+- `components/GameBoard.tsx`: client, DnD, submit flow, next round.
+- `components/CardRow.tsx`: client, draggable item.
+
+### Dependencies
+
+- Add `react-dnd` and `react-dnd-html5-backend`.
+- Keep everything else in Next.js core.
+
+### Implementation milestones
+
+1. Skeleton and config
+   - Add `lib/config.ts` with `CURRENT_SET_CODE`.
+   - Add types in `types/ratings.ts`.
+2. Data layer
+   - Implement `lib/fetchRatings.ts` using server `fetch` with `{ next: { revalidate: 3600 } }`.
+   - Validate a few fields; gracefully handle malformed rows.
+3. Sampling and sorting utilities
+   - `pickRandomCards` and `sortByEverDrawnWinRateDesc`.
+4. Page and server integration
+   - Update `app/page.tsx` to fetch ratings (server), pick 5, render `GameBoard` with props.
+5. Client DnD and UI
+   - Install and wire `react-dnd`.
+   - Implement `GameBoard` reordering and submit/solution display.
+   - Add “Next round” button using `router.refresh()`.
+6. Styling pass
+   - Clean, readable desktop layout in `page.module.css`.
+7. Basic validation and QA
+   - Confirm: no client fetch to 17Lands, only server; cache persists up to 1 hour.
+   - Confirm: each “Next round” yields new 5 while honoring cached dataset.
+   - Confirm: drag-and-drop works and solution is correct.
+8. Deploy to Vercel
+   - Verify behavior on Vercel with server cache and refresh.
+
+### Acceptance criteria
+
+- On load, 5 random cards from the current set appear.
+- User can reorder via drag-and-drop.
+- On submit, the app shows the correct order with each card’s `ever_drawn_win_rate`.
+- A “Next round” button gets a different set of 5 cards.
+- The app never fetches from 17Lands on the client; data is cached on the server for ≤ 1 hour.
+
+### Stretch (post-v1)
+
+- Keyboard-accessible reordering.
+- Option to pick set code from a dropdown.
+- Small insights after answer (e.g., delta to correct position).
+
+- Built a concise, phased plan with file-level tasks, server caching strategy, DnD approach, and acceptance criteria aligned to the rules.

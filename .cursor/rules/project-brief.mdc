@@ -1,0 +1,39 @@
+---
+alwaysApply: true
+---
+
+# Project Context: MTGA Card Ordering Game
+
+## Goal
+
+Build a web-based learning tool that helps players memorize MTGA card ratings from 17Lands. Users improve through repetition by ordering cards from highest to lowest based on "ever_drawn_win_rate".
+
+## User flow
+
+1. Page loads with 5 random cards from the current draft set.
+2. User drags and drops cards to order them.
+3. User submits their guess.
+4. App shows the correct order and each card’s rating.
+5. User clicks a button to start a new round with 5 different random cards.
+
+## Data
+
+- Source: https://www.17lands.com/card_ratings/data?expansion={set_code}&format=premierdraft
+- Set code is fixed to the current draft set.
+- Data should be cached on the server for at most 1 hour.
+- No direct client fetch from 17Lands — must go through server cache.
+
+## Tech stack
+
+- Next.js 14 with App Router
+- Hosted on Vercel
+- Drag-and-drop with React DnD or similar
+- Server component for fetching cached data
+- Desktop layout only in first version
+
+## Constraints
+
+- No scoring, achievements, or timers in first version
+- No sound effects or music
+- Start immediately — minimal instructions
+- After showing correct order, user presses a button to go to the next round
