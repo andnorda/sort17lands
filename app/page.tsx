@@ -2,7 +2,6 @@ import { redirect } from "next/navigation";
 import { CURRENT_SET_CODE } from "../lib/config";
 import { getCachedCardRatings } from "../lib/fetchRatings";
 import { pickRandomCards } from "../lib/random";
-import { CardRating } from "../types/ratings";
 export const dynamic = "force-dynamic";
 
 const generateGameCode = async () => {

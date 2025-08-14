@@ -3,7 +3,6 @@ import { notFound } from "next/navigation";
 import GameBoard from "../../../components/Game";
 import { getCachedCardRatings } from "../../../lib/fetchRatings";
 import { pickRandomCards } from "../../../lib/random";
-import { CardRating } from "../../../types/ratings";
 
 export default async function GamePage({
   params,

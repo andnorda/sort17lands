@@ -9,6 +9,7 @@ import {
 import Image from "next/image";
 import { useEffect, useState } from "react";
 import type { CardRating } from "../types/ratings";
+import confetti from "canvas-confetti";
 
 type GameBoardProps = {
   cards: CardRating[];
@@ -173,9 +174,7 @@ function useConfetti(done: boolean, correct: boolean) {
     if (!done || !correct) return;
     let cancelled = false;
     (async () => {
-      const mod = await import("canvas-confetti");
       if (cancelled) return;
-      const confetti = mod.default;
       const fire = (particleRatio: number, opts: Record<string, number>) => {
         confetti({
           origin: { y: 0.6 },
