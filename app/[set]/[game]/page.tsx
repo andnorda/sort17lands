@@ -24,7 +24,7 @@ export default async function GamePage({
       <GameBoard
         key={game}
         cards={cards}
-        nextHref={`/${set}/${pickRandomCards<CardRating>(ratings, 5)
+        nextHref={`/${set}/${pickRandomCards(ratings, 5)
           .map((c) => c.id)
           .join("")}`}
       />

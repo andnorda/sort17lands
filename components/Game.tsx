@@ -7,7 +7,7 @@ import {
   DropResult,
 } from "@hello-pangea/dnd";
 import Image from "next/image";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import type { CardRating } from "../types/ratings";
 
 type GameBoardProps = {
@@ -18,6 +18,8 @@ type GameBoardProps = {
 export default function GameBoard({ cards, nextHref }: GameBoardProps) {
   const [order, setOrder] = useState<string[]>(() => cards.map((c) => c.id));
   const [done, setDone] = useState(false);
+  const [correct, setCorrect] = useState(false);
+  useConfetti(done, correct);
 
   const onDragEnd = (result: DropResult) => {
     // dropped outside the list
@@ -141,7 +143,18 @@ export default function GameBoard({ cards, nextHref }: GameBoardProps) {
             Next round
           </a>
         ) : (
-          <button onClick={() => setDone(true)}>Submit</button>
+          <button
+            onClick={() => {
+              const solutionIds = [...cards]
+                .sort((a, b) => a.ever_drawn_win_rate - b.ever_drawn_win_rate)
+                .map((c) => c.id);
+              const isCorrect = order.join("|") === solutionIds.join("|");
+              setCorrect(isCorrect);
+              setDone(true);
+            }}
+          >
+            Submit
+          </button>
         )}
       </div>
     </>
@@ -151,4 +164,36 @@ export default function GameBoard({ cards, nextHref }: GameBoardProps) {
 function formatWinRate(value: number): string {
   const pct = value <= 1 ? value * 100 : value;
   return `${pct.toFixed(2)}%`;
+}
+
+// Fire celebratory confetti if the submission is correct
+// Runs once when done transitions to true and correctness is true
+function useConfetti(done: boolean, correct: boolean) {
+  useEffect(() => {
+    if (!done || !correct) return;
+    let cancelled = false;
+    (async () => {
+      const mod = await import("canvas-confetti");
+      if (cancelled) return;
+      const confetti = mod.default;
+      const fire = (particleRatio: number, opts: Record<string, number>) => {
+        confetti({
+          origin: { y: 0.6 },
+          particleCount: Math.floor(300 * particleRatio),
+          spread: 70,
+          startVelocity: 35,
+          ticks: 120,
+          ...opts,
+        });
+      };
+      fire(0.25, { spread: 26, startVelocity: 55 });
+      fire(0.2, { spread: 60 });
+      fire(0.35, { spread: 100, decay: 0.91, scalar: 0.8 });
+      fire(0.1, { spread: 120, startVelocity: 25, decay: 0.92, scalar: 1.2 });
+      fire(0.1, { spread: 120, startVelocity: 45 });
+    })();
+    return () => {
+      cancelled = true;
+    };
+  }, [done, correct]);
 }

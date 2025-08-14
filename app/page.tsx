@@ -7,7 +7,7 @@ export const dynamic = "force-dynamic";
 
 const generateGameCode = async () => {
   const ratings = await getCachedCardRatings();
-  const five = pickRandomCards<CardRating>(ratings, 5);
+  const five = pickRandomCards(ratings, 5);
   return five.map((c) => c.id).join("");
 };
 
