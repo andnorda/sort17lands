@@ -21,17 +21,13 @@ export default async function GamePage({
     if (!cards) return notFound();
 
     return (
-      <>
-        <h1>Order the cards by Ever Drawn Win Rate</h1>
-        <p>Drag to reorder from lowest to highest, then submit.</p>
-        <GameBoard
-          key={game}
-          cards={cards}
-          nextHref={`/${set}/${pickRandomCards<CardRating>(ratings, 5)
-            .map((c) => c.id)
-            .join("")}`}
-        />
-      </>
+      <GameBoard
+        key={game}
+        cards={cards}
+        nextHref={`/${set}/${pickRandomCards<CardRating>(ratings, 5)
+          .map((c) => c.id)
+          .join("")}`}
+      />
     );
   } catch {
     return (

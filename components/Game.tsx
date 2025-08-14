@@ -7,7 +7,7 @@ import {
   DropResult,
 } from "@hello-pangea/dnd";
 import Image from "next/image";
-import { useMemo, useState } from "react";
+import { useState } from "react";
 import type { CardRating } from "../types/ratings";
 
 type GameBoardProps = {
@@ -18,16 +18,6 @@ type GameBoardProps = {
 export default function GameBoard({ cards, nextHref }: GameBoardProps) {
   const [order, setOrder] = useState<string[]>(() => cards.map((c) => c.id));
   const [done, setDone] = useState(false);
-
-  const orderedCards = useMemo(
-    () => order.map((id) => cards.find((c) => c.id === id)!),
-    [order, cards]
-  );
-  const solution = useMemo(
-    () =>
-      [...cards].sort((a, b) => a.ever_drawn_win_rate - b.ever_drawn_win_rate),
-    [cards]
-  );
 
   const onDragEnd = (result: DropResult) => {
     // dropped outside the list
@@ -52,53 +42,109 @@ export default function GameBoard({ cards, nextHref }: GameBoardProps) {
   };
 
   return (
-    <div>
+    <>
+      <h1>Order the cards by 17 lands win rate</h1>
+      <p>
+        Drag to reorder from lowest to highest, according to Games in Hand Win
+        Rate.
+      </p>
       <DragDropContext onDragEnd={onDragEnd}>
         <Droppable droppableId="droppable" direction="horizontal">
           {(provided) => (
             <div ref={provided.innerRef} {...provided.droppableProps}>
-              {cards.map((card, index) => (
-                <Draggable
-                  key={card.url}
-                  draggableId={card.url}
-                  index={index}
-                  isDragDisabled={done}
-                >
-                  {(provided) => (
-                    <Image
-                      ref={provided.innerRef}
-                      {...provided.draggableProps}
-                      {...provided.dragHandleProps}
-                      src={card.url}
-                      width={140}
-                      height={196}
-                      alt={card.name}
-                    />
-                  )}
-                </Draggable>
-              ))}
+              {order
+                .map((id) => cards.find((c) => c.id === id)!)
+                .map((card, index) => (
+                  <Draggable
+                    key={card.url}
+                    draggableId={card.url}
+                    index={index}
+                    isDragDisabled={done}
+                  >
+                    {(provided) => (
+                      <Image
+                        ref={provided.innerRef}
+                        {...provided.draggableProps}
+                        {...provided.dragHandleProps}
+                        src={card.url}
+                        width={140}
+                        height={196}
+                        alt={card.name}
+                        style={{
+                          ...provided.draggableProps.style,
+                          width: "20%",
+                          maxWidth: "calc((min(1000px, 100vw - 10px))/5)",
+                          height: "auto",
+                        }}
+                      />
+                    )}
+                  </Draggable>
+                ))}
               {provided.placeholder}
             </div>
           )}
         </Droppable>
       </DragDropContext>
 
-      {done &&
-        solution.map((card) => (
-          <div key={card.id}>
-            <Image src={card.url} width={140} height={196} alt={card.name} />
-            <div>{formatWinRate(card.ever_drawn_win_rate)}</div>
-          </div>
-        ))}
+      <div
+        style={{
+          display: "grid",
+          gridTemplateColumns: "repeat(5, minmax(0, 1fr))",
+        }}
+      >
+        {done &&
+          cards
+            .toSorted((a, b) => a.ever_drawn_win_rate - b.ever_drawn_win_rate)
+            .map((card) => (
+              <div
+                key={card.id}
+                style={{
+                  position: "relative",
+                }}
+              >
+                <Image
+                  src={card.url}
+                  width={140}
+                  height={196}
+                  alt={card.name}
+                  style={{
+                    width: "100%",
+                    height: "auto",
+                  }}
+                />
+                <div
+                  style={{
+                    position: "absolute",
+                    inset: "1em 0",
+                    textAlign: "center",
+                    verticalAlign: "center",
+                    color: "white",
+                    fontSize: "min(4.5vw, 45px)",
+                    textShadow: "0 0 4px black",
+                  }}
+                >
+                  {formatWinRate(card.ever_drawn_win_rate)}
+                </div>
+              </div>
+            ))}
+      </div>
 
-      <div>
+      <div
+        style={{
+          display: "flex",
+          justifyContent: "center",
+          padding: 10,
+        }}
+      >
         {done ? (
-          <a href={nextHref}>Next round</a>
+          <a className="next" href={nextHref}>
+            Next round
+          </a>
         ) : (
           <button onClick={() => setDone(true)}>Submit</button>
         )}
       </div>
-    </div>
+    </>
   );
 }
 
