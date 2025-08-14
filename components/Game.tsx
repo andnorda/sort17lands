@@ -83,35 +83,13 @@ export default function GameBoard({ cards, nextHref }: GameBoardProps) {
         </Droppable>
       </DragDropContext>
 
-      {done && (
-        <div>
-          <div>
-            {orderedCards.map((card) => (
-              <div key={`you-${card.id}`}>
-                <Image
-                  src={card.url}
-                  width={140}
-                  height={196}
-                  alt={card.name}
-                />
-              </div>
-            ))}
+      {done &&
+        solution.map((card) => (
+          <div key={card.id}>
+            <Image src={card.url} width={140} height={196} alt={card.name} />
+            <div>{formatWinRate(card.ever_drawn_win_rate)}</div>
           </div>
-          <div>
-            {solution.map((card) => (
-              <div key={`sol-${card.id}`}>
-                <Image
-                  src={card.url}
-                  width={140}
-                  height={196}
-                  alt={card.name}
-                />
-                <div>{formatWinRate(card.ever_drawn_win_rate)}</div>
-              </div>
-            ))}
-          </div>
-        </div>
-      )}
+        ))}
 
       <div>
         {done ? (
