@@ -4,4 +4,5 @@ export type CardRating = {
   ever_drawn_win_rate: number;
   mtga_id: number;
   url: string;
+  first_printing_url?: string;
 };
