@@ -14,5 +14,17 @@ export function pickRandomCards(a: CardRating[], k: number): CardRating[] {
     seen.add(idx);
     picked.push(arr[idx]);
   }
+  if (
+    picked.some((c, i, a) =>
+      a
+        .filter((_, index) => i !== index)
+        .some(
+          (card) =>
+            Math.abs(card.ever_drawn_win_rate - c.ever_drawn_win_rate) < 0.005
+        )
+    )
+  ) {
+    return pickRandomCards(a, k);
+  }
   return picked;
 }
