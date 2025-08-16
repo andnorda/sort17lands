@@ -1,0 +1,4426 @@
+[
+  {
+    "name": "Anticausal Vestige",
+    "mtga_id": 96575,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.595606623859412,
+    "url": "https://cards.scryfall.io/large/front/3/5/35372b69-6086-44e0-9f7c-681e362e5142.jpg?1752946556",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/5/35372b69-6086-44e0-9f7c-681e362e5142.jpg?1752946556",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Tezzeret, Cruel Captain",
+    "mtga_id": 96576,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.5188205771643664,
+    "url": "https://cards.scryfall.io/large/front/0/2/02e8e540-8aa3-4e6a-9a11-c3949cab5f0f.jpg?1752946561",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/0/2/02e8e540-8aa3-4e6a-9a11-c3949cab5f0f.jpg?1754473212",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "All-Fates Stalker",
+    "mtga_id": 96577,
+    "color": "W",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5981117937958939,
+    "url": "https://cards.scryfall.io/large/front/8/2/82ae4f7b-8122-4af6-8079-888eabf1a11e.jpg?1752946565",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/8/2/82ae4f7b-8122-4af6-8079-888eabf1a11e.jpg?1752946565",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Astelli Reclaimer",
+    "mtga_id": 96578,
+    "color": "W",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5664499085551717,
+    "url": "https://cards.scryfall.io/large/front/4/f/4fb36405-cd28-432f-b0a4-e74ff8be928d.jpg?1752946568",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/4/f/4fb36405-cd28-432f-b0a4-e74ff8be928d.jpg?1752946568",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Auxiliary Boosters",
+    "mtga_id": 96579,
+    "color": "W",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.546048003601677,
+    "url": "https://cards.scryfall.io/large/front/4/3/43706295-afd6-442c-8828-8cf978152701.jpg?1752946573",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/4/3/43706295-afd6-442c-8828-8cf978152701.jpg?1752946573",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Banishing Light",
+    "mtga_id": 96580,
+    "color": "W",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5806216337522442,
+    "url": "https://cards.scryfall.io/large/front/c/4/c45f11cd-a0aa-4d14-aa21-57f0969f3e2b.jpg?1752946576",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/f/b/fbaa4800-30cc-4a80-a6cc-9a24ada9eb40.jpg?1593095193",
+      "set_name": "Journey into Nyx",
+      "released_at": "2014-05-02",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Beyond the Quiet",
+    "mtga_id": 96581,
+    "color": "W",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5866508219449396,
+    "url": "https://cards.scryfall.io/large/front/c/e/ce503869-8130-4afe-9691-4e90376b4bc4.jpg?1752946582",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/c/e/ce503869-8130-4afe-9691-4e90376b4bc4.jpg?1752946582",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Brightspear Zealot",
+    "mtga_id": 96582,
+    "color": "W",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5343429900081694,
+    "url": "https://cards.scryfall.io/large/front/e/7/e7f7541a-5910-4f33-8c1d-3507ce3a426e.jpg?1752946584",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/7/e7f7541a-5910-4f33-8c1d-3507ce3a426e.jpg?1752946584",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Cosmogrand Zenith",
+    "mtga_id": 96583,
+    "color": "W",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.6349747849302877,
+    "url": "https://cards.scryfall.io/large/front/b/3/b3c1e5e3-4e6b-456a-958c-7a75c38f8183.jpg?1752946590",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/3/b3c1e5e3-4e6b-456a-958c-7a75c38f8183.jpg?1752946590",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Dawnstrike Vanguard",
+    "mtga_id": 96584,
+    "color": "W",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5246527777777777,
+    "url": "https://cards.scryfall.io/large/front/5/a/5a041722-9483-469f-9c17-7f0253b0db50.jpg?1752946591",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/5/a/5a041722-9483-469f-9c17-7f0253b0db50.jpg?1752946591",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Dockworker Drone",
+    "mtga_id": 96585,
+    "color": "W",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5428658580348812,
+    "url": "https://cards.scryfall.io/large/front/e/e/eeff069f-427b-42ad-afb1-36f0e547fb74.jpg?1752946598",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/e/eeff069f-427b-42ad-afb1-36f0e547fb74.jpg?1752946598",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Dual-Sun Adepts",
+    "mtga_id": 96586,
+    "color": "W",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5673360317522694,
+    "url": "https://cards.scryfall.io/large/front/c/7/c7e8c830-77ae-437f-8e28-ce61c5fde6b6.jpg?1752946599",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/c/7/c7e8c830-77ae-437f-8e28-ce61c5fde6b6.jpg?1752946599",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Dual-Sun Technique",
+    "mtga_id": 96587,
+    "color": "W",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5107553165485211,
+    "url": "https://cards.scryfall.io/large/front/f/8/f8931132-391f-4f16-b480-0a245ab2ec21.jpg?1752946606",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/f/8/f8931132-391f-4f16-b480-0a245ab2ec21.jpg?1752946606",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Emergency Eject",
+    "mtga_id": 96588,
+    "color": "W",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5367662203913491,
+    "url": "https://cards.scryfall.io/large/front/f/c/fc98b2d4-86fc-4c47-b2a7-1f3c89463607.jpg?1752946606",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/f/c/fc98b2d4-86fc-4c47-b2a7-1f3c89463607.jpg?1752946606",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Exalted Sunborn",
+    "mtga_id": 96589,
+    "color": "W",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.5823262839879154,
+    "url": "https://cards.scryfall.io/large/front/7/e/7e1fe101-f634-41e5-9aa4-e8d7474535dc.jpg?1752946614",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/7/e/7e1fe101-f634-41e5-9aa4-e8d7474535dc.jpg?1752946614",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Exosuit Savior",
+    "mtga_id": 96590,
+    "color": "W",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5256802345745184,
+    "url": "https://cards.scryfall.io/large/front/8/2/826c0455-a6ce-43ad-bd5c-0a5df169da90.jpg?1752946614",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/8/2/826c0455-a6ce-43ad-bd5c-0a5df169da90.jpg?1752946614",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Flight-Deck Coordinator",
+    "mtga_id": 96591,
+    "color": "W",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5404271077644736,
+    "url": "https://cards.scryfall.io/large/front/8/8/88cc6328-a035-4f74-b786-390e5c7c324c.jpg?1752946621",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/8/8/88cc6328-a035-4f74-b786-390e5c7c324c.jpg?1752946621",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Focus Fire",
+    "mtga_id": 96592,
+    "color": "W",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5714005203475528,
+    "url": "https://cards.scryfall.io/large/front/a/9/a9ddfcbc-0f84-4315-aaa3-ca54ff64d7de.jpg?1752946622",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/a/9/a9ddfcbc-0f84-4315-aaa3-ca54ff64d7de.jpg?1752946622",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Haliya, Guided by Light",
+    "mtga_id": 96593,
+    "color": "W",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5930944867273065,
+    "url": "https://cards.scryfall.io/large/front/6/f/6f7c63ae-5df3-410f-8643-b8c69133ca9d.jpg?1752946628",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/6/f/6f7c63ae-5df3-410f-8643-b8c69133ca9d.jpg?1752946628",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Hardlight Containment",
+    "mtga_id": 96594,
+    "color": "W",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5295857988165681,
+    "url": "https://cards.scryfall.io/large/front/0/b/0b934241-4d6b-4b9c-99f1-c49cb387cf56.jpg?1752946630",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/0/b/0b934241-4d6b-4b9c-99f1-c49cb387cf56.jpg?1752946630",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Honor",
+    "mtga_id": 96595,
+    "color": "W",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5555867227676484,
+    "url": "https://cards.scryfall.io/large/front/d/0/d0b4e925-1d59-41a1-bc06-9982695d778f.jpg?1752946636",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/d/0/d0b4e925-1d59-41a1-bc06-9982695d778f.jpg?1752946636",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Honored Knight-Captain",
+    "mtga_id": 96596,
+    "color": "W",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5638332786347227,
+    "url": "https://cards.scryfall.io/large/front/0/5/05a6ab03-f0b9-4738-a5f9-5d95bb22de75.jpg?1752946639",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/0/5/05a6ab03-f0b9-4738-a5f9-5d95bb22de75.jpg?1752946639",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Knight Luminary",
+    "mtga_id": 96597,
+    "color": "W",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5754084887656883,
+    "url": "https://cards.scryfall.io/large/front/3/4/34334971-c1b7-4506-a6dd-77f66b3ae4e7.jpg?1752946643",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/4/34334971-c1b7-4506-a6dd-77f66b3ae4e7.jpg?1752946643",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Lightstall Inquisitor",
+    "mtga_id": 96598,
+    "color": "W",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5771841958820256,
+    "url": "https://cards.scryfall.io/large/front/6/3/635245e9-c27f-4a51-a6f1-bae62e696542.jpg?1752946647",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/6/3/635245e9-c27f-4a51-a6f1-bae62e696542.jpg?1752946647",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Lumen-Class Frigate",
+    "mtga_id": 96599,
+    "color": "W",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.6009439335991538,
+    "url": "https://cards.scryfall.io/large/front/0/c/0cc59b5a-65fa-47cc-8ac7-b7c3f533a782.jpg?1752946650",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/0/c/0cc59b5a-65fa-47cc-8ac7-b7c3f533a782.jpg?1753296574",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Luxknight Breacher",
+    "mtga_id": 96600,
+    "color": "W",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5164462529671074,
+    "url": "https://cards.scryfall.io/large/front/c/1/c1236731-0d33-4705-8077-3cf58acf9a39.jpg?1752946655",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/c/1/c1236731-0d33-4705-8077-3cf58acf9a39.jpg?1752946655",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Pinnacle Starcage",
+    "mtga_id": 96601,
+    "color": "W",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.47333699835074217,
+    "url": "https://cards.scryfall.io/large/front/b/1/b1f40c4c-a955-4d9c-8225-251fa4159124.jpg?1752946658",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/1/b1f40c4c-a955-4d9c-8225-251fa4159124.jpg?1752946658",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Pulsar Squadron Ace",
+    "mtga_id": 96602,
+    "color": "W",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5592399403874814,
+    "url": "https://cards.scryfall.io/large/front/8/d/8d989cdc-cbd7-4b71-9589-59618597ac8a.jpg?1752946664",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/8/d/8d989cdc-cbd7-4b71-9589-59618597ac8a.jpg?1752946664",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Radiant Strike",
+    "mtga_id": 96603,
+    "color": "W",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5556391507770437,
+    "url": "https://cards.scryfall.io/large/front/8/c/8c38e4cb-918b-4493-872b-66c90dcfd339.jpg?1752946665",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/8/c/8c38e4cb-918b-4493-872b-66c90dcfd339.jpg?1752946665",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Rayblade Trooper",
+    "mtga_id": 96604,
+    "color": "W",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5860729738016557,
+    "url": "https://cards.scryfall.io/large/front/c/0/c08c7bf9-a2ed-45c6-8b48-15122d9d9e37.jpg?1752946672",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/c/0/c08c7bf9-a2ed-45c6-8b48-15122d9d9e37.jpg?1752946672",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Reroute Systems",
+    "mtga_id": 96605,
+    "color": "W",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5219732246798603,
+    "url": "https://cards.scryfall.io/large/front/3/b/3bbdba38-2b99-4226-98e3-6d2580345d6d.jpg?1752946673",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/b/3bbdba38-2b99-4226-98e3-6d2580345d6d.jpg?1752946673",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Rescue Skiff",
+    "mtga_id": 96606,
+    "color": "W",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5282493936367527,
+    "url": "https://cards.scryfall.io/large/front/6/f/6fe86bfb-c67d-4df9-88c9-f083091f4cda.jpg?1752946680",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/6/f/6fe86bfb-c67d-4df9-88c9-f083091f4cda.jpg?1753296586",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Scout for Survivors",
+    "mtga_id": 96607,
+    "color": "W",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5142924919938323,
+    "url": "https://cards.scryfall.io/large/front/e/b/ebf3a6dd-a447-46f9-8b10-091ac8cbaa18.jpg?1752946680",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/b/ebf3a6dd-a447-46f9-8b10-091ac8cbaa18.jpg?1752946680",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Seam Rip",
+    "mtga_id": 96608,
+    "color": "W",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.543740294313392,
+    "url": "https://cards.scryfall.io/large/front/9/d/9d298847-2d02-4593-b4d3-c5b722edac1e.jpg?1752946687",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/9/d/9d298847-2d02-4593-b4d3-c5b722edac1e.jpg?1752946687",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "The Seriema",
+    "mtga_id": 96609,
+    "color": "W",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.6020015396458814,
+    "url": "https://cards.scryfall.io/large/front/d/e/dec91ec3-42d3-4922-96f0-dbb50a576084.jpg?1752946688",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/d/e/dec91ec3-42d3-4922-96f0-dbb50a576084.jpg?1753296617",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Squire's Lightblade",
+    "mtga_id": 96610,
+    "color": "W",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5348277608915907,
+    "url": "https://cards.scryfall.io/large/front/2/a/2a0accba-85d4-4aa4-a70c-80fcce48c261.jpg?1752946695",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/2/a/2a0accba-85d4-4aa4-a70c-80fcce48c261.jpg?1752946695",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Starfield Shepherd",
+    "mtga_id": 96611,
+    "color": "W",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5872836840578776,
+    "url": "https://cards.scryfall.io/large/front/1/2/1226e575-aa78-4c68-be1d-6e5c2dc6315b.jpg?1752946696",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/1/2/1226e575-aa78-4c68-be1d-6e5c2dc6315b.jpg?1752946696",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Starfighter Pilot",
+    "mtga_id": 96612,
+    "color": "W",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5398606811145511,
+    "url": "https://cards.scryfall.io/large/front/1/e/1e571246-aadc-4d1f-a284-9a529e150fe0.jpg?1752946702",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/1/e/1e571246-aadc-4d1f-a284-9a529e150fe0.jpg?1752946702",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Starport Security",
+    "mtga_id": 96613,
+    "color": "W",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5358418367346939,
+    "url": "https://cards.scryfall.io/large/front/2/3/238cb1db-6c41-4fe1-bc34-340048dfde18.jpg?1752946704",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/2/3/238cb1db-6c41-4fe1-bc34-340048dfde18.jpg?1752946704",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Sunstar Chaplain",
+    "mtga_id": 96614,
+    "color": "W",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.6025601241272304,
+    "url": "https://cards.scryfall.io/large/front/8/3/83719626-3ff8-4566-9911-88212e753c69.jpg?1752946709",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/8/3/83719626-3ff8-4566-9911-88212e753c69.jpg?1752946709",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Sunstar Expansionist",
+    "mtga_id": 96615,
+    "color": "W",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5723659478486723,
+    "url": "https://cards.scryfall.io/large/front/9/3/93b0e6e5-9fb6-4342-9322-1a4cc09a7a76.jpg?1752946712",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/9/3/93b0e6e5-9fb6-4342-9322-1a4cc09a7a76.jpg?1752946712",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Sunstar Lightsmith",
+    "mtga_id": 96616,
+    "color": "W",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5652189044337719,
+    "url": "https://cards.scryfall.io/large/front/5/f/5f60b09d-9814-4a36-a57d-59b0e04c1c2f.jpg?1752946716",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/5/f/5f60b09d-9814-4a36-a57d-59b0e04c1c2f.jpg?1752946716",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Wedgelight Rammer",
+    "mtga_id": 96617,
+    "color": "W",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5408713966039226,
+    "url": "https://cards.scryfall.io/large/front/2/c/2cb0984f-dc8b-4bb3-a4fd-8d6d4ae20198.jpg?1752946720",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/2/c/2cb0984f-dc8b-4bb3-a4fd-8d6d4ae20198.jpg?1753296645",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Weftblade Enhancer",
+    "mtga_id": 96618,
+    "color": "W",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5330535464475995,
+    "url": "https://cards.scryfall.io/large/front/8/d/8d72b00c-5043-4630-949a-fc17eeb962bc.jpg?1752946724",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/8/d/8d72b00c-5043-4630-949a-fc17eeb962bc.jpg?1752946724",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Zealous Display",
+    "mtga_id": 96619,
+    "color": "W",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5210176991150443,
+    "url": "https://cards.scryfall.io/large/front/f/5/f5973fd3-d6bc-48f1-8a44-57d2a6dda228.jpg?1752946729",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/f/5/f5973fd3-d6bc-48f1-8a44-57d2a6dda228.jpg?1752946729",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Annul",
+    "mtga_id": 96620,
+    "color": "U",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5120502185853604,
+    "url": "https://cards.scryfall.io/large/front/4/f/4feeebea-aa55-4599-ab5a-4e41a54d0dfd.jpg?1752946732",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/f/3f8c73ff-be92-41ca-93a7-76f9823adb38.jpg?1562908208",
+      "set_name": "Urza's Saga",
+      "released_at": "1998-10-12",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Atomic Microsizer",
+    "mtga_id": 96621,
+    "color": "U",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.4844388557057529,
+    "url": "https://cards.scryfall.io/large/front/3/5/3554f0c7-ea73-43e9-a061-bbb8ef6abce1.jpg?1752946737",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/5/3554f0c7-ea73-43e9-a061-bbb8ef6abce1.jpg?1752946737",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Cerebral Download",
+    "mtga_id": 96622,
+    "color": "U",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5494379609078542,
+    "url": "https://cards.scryfall.io/large/front/4/d/4d3b5d73-694c-4f9a-8b4f-d8d8c58c8d65.jpg?1752946739",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/4/d/4d3b5d73-694c-4f9a-8b4f-d8d8c58c8d65.jpg?1752946739",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Cloudsculpt Technician",
+    "mtga_id": 96623,
+    "color": "U",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5166921445830662,
+    "url": "https://cards.scryfall.io/large/front/5/1/51077a54-15cf-4088-8e84-088d72e8e861.jpg?1752946745",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/5/1/51077a54-15cf-4088-8e84-088d72e8e861.jpg?1752946745",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Codecracker Hound",
+    "mtga_id": 96624,
+    "color": "U",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5978567054500918,
+    "url": "https://cards.scryfall.io/large/front/6/7/6723b891-6013-4ec6-b439-2233d270dc48.jpg?1752946747",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/6/7/6723b891-6013-4ec6-b439-2233d270dc48.jpg?1752946747",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Consult the Star Charts",
+    "mtga_id": 96625,
+    "color": "U",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.563860189052539,
+    "url": "https://cards.scryfall.io/large/front/a/1/a16a6555-2e3a-4587-aacd-0307d696b26c.jpg?1752946753",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/a/1/a16a6555-2e3a-4587-aacd-0307d696b26c.jpg?1752946753",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Cryogen Relic",
+    "mtga_id": 96626,
+    "color": "U",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.591810154948191,
+    "url": "https://cards.scryfall.io/large/front/7/b/7bfb33b6-e2bf-498f-8c58-ae21a840cf75.jpg?1752946757",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/7/b/7bfb33b6-e2bf-498f-8c58-ae21a840cf75.jpg?1752946757",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Cryoshatter",
+    "mtga_id": 96627,
+    "color": "U",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5600123528643204,
+    "url": "https://cards.scryfall.io/large/front/7/b/7b62b1e2-9e43-4a66-a647-7e5de2871f2a.jpg?1752946762",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/7/b/7b62b1e2-9e43-4a66-a647-7e5de2871f2a.jpg?1752946762",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Desculpting Blast",
+    "mtga_id": 96628,
+    "color": "U",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5742188549474759,
+    "url": "https://cards.scryfall.io/large/front/7/7/77fdbf32-b5f4-4346-846d-d8e0e53e6e53.jpg?1752946764",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/7/7/77fdbf32-b5f4-4346-846d-d8e0e53e6e53.jpg?1752946764",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Divert Disaster",
+    "mtga_id": 96629,
+    "color": "U",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5668413340949164,
+    "url": "https://cards.scryfall.io/large/front/c/5/c5f7d2fe-628b-4493-8281-0e5f91ce5d61.jpg?1752946770",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/c/5/c5f7d2fe-628b-4493-8281-0e5f91ce5d61.jpg?1752946770",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Emissary Escort",
+    "mtga_id": 96630,
+    "color": "U",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.565245688252522,
+    "url": "https://cards.scryfall.io/large/front/b/5/b52ba87f-3ac7-4f32-901c-d089df979f94.jpg?1752946771",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/5/b52ba87f-3ac7-4f32-901c-d089df979f94.jpg?1752946771",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Gigastorm Titan",
+    "mtga_id": 96631,
+    "color": "U",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5688611773335779,
+    "url": "https://cards.scryfall.io/large/front/a/b/abc83e0a-0ae5-4087-a751-058a1ba6a920.jpg?1752946778",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/a/b/abc83e0a-0ae5-4087-a751-058a1ba6a920.jpg?1752946778",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Illvoi Galeblade",
+    "mtga_id": 96632,
+    "color": "U",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5470902978360718,
+    "url": "https://cards.scryfall.io/large/front/7/6/769f7d13-a312-4d79-8639-6ae248452448.jpg?1752946779",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/7/6/769f7d13-a312-4d79-8639-6ae248452448.jpg?1752946779",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Illvoi Infiltrator",
+    "mtga_id": 96633,
+    "color": "U",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5476890281321662,
+    "url": "https://cards.scryfall.io/large/front/2/d/2db4ed41-0426-4d7f-bb43-e43392bed83b.jpg?1752946786",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/2/d/2db4ed41-0426-4d7f-bb43-e43392bed83b.jpg?1752946786",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Illvoi Light Jammer",
+    "mtga_id": 96634,
+    "color": "U",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5537468170243725,
+    "url": "https://cards.scryfall.io/large/front/e/f/efb3d961-543c-4404-b4ed-1cb28ee411b3.jpg?1752946786",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/f/efb3d961-543c-4404-b4ed-1cb28ee411b3.jpg?1752946786",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Illvoi Operative",
+    "mtga_id": 96635,
+    "color": "U",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5416512311377837,
+    "url": "https://cards.scryfall.io/large/front/d/0/d0ae9fc7-1802-4806-9996-1f1f458ff6a7.jpg?1752946793",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/d/0/d0ae9fc7-1802-4806-9996-1f1f458ff6a7.jpg?1752946793",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Lost in Space",
+    "mtga_id": 96636,
+    "color": "U",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5637808831340085,
+    "url": "https://cards.scryfall.io/large/front/6/d/6d9d7979-97af-4c85-86f5-1b3704f74e8b.jpg?1752946795",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/6/d/6d9d7979-97af-4c85-86f5-1b3704f74e8b.jpg?1752946795",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Mechan Assembler",
+    "mtga_id": 96637,
+    "color": "U",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.542380106571936,
+    "url": "https://cards.scryfall.io/large/front/3/f/3fd46726-095e-4eb2-a804-eeeb988eee1d.jpg?1752946801",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/f/3fd46726-095e-4eb2-a804-eeeb988eee1d.jpg?1752946801",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Mechan Navigator",
+    "mtga_id": 96638,
+    "color": "U",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5524046380930848,
+    "url": "https://cards.scryfall.io/large/front/a/1/a1fe1d39-42c8-41d0-8bf0-46973e4b07d4.jpg?1752946803",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/a/1/a1fe1d39-42c8-41d0-8bf0-46973e4b07d4.jpg?1752946803",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Mechan Shieldmate",
+    "mtga_id": 96639,
+    "color": "U",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5254843517138599,
+    "url": "https://cards.scryfall.io/large/front/7/4/745b2119-4d9f-431f-89b9-10ad48b6dc47.jpg?1752946812",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/7/4/745b2119-4d9f-431f-89b9-10ad48b6dc47.jpg?1752946812",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Mechanozoa",
+    "mtga_id": 96640,
+    "color": "U",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5500709115355571,
+    "url": "https://cards.scryfall.io/large/front/0/c/0cb8d8ce-329a-4a97-b3d8-796703ebcb37.jpg?1752946818",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/0/c/0cb8d8ce-329a-4a97-b3d8-796703ebcb37.jpg?1752946818",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Mental Modulation",
+    "mtga_id": 96641,
+    "color": "U",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5344140115520775,
+    "url": "https://cards.scryfall.io/large/front/0/f/0f2d12fc-38a0-42e6-9caa-7c18bfcf0011.jpg?1752946821",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/0/f/0f2d12fc-38a0-42e6-9caa-7c18bfcf0011.jpg?1752946821",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Mm'menon, the Right Hand",
+    "mtga_id": 96642,
+    "color": "U",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5033211177278973,
+    "url": "https://cards.scryfall.io/large/front/8/2/82add0a0-e402-4b31-b101-81c0bf332015.jpg?1752946825",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/8/2/82add0a0-e402-4b31-b101-81c0bf332015.jpg?1752946825",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Moonlit Meditation",
+    "mtga_id": 96643,
+    "color": "U",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.39071729957805906,
+    "url": "https://cards.scryfall.io/large/front/f/2/f2a56007-5bca-4edf-9cc4-5f77a273636c.jpg?1752946830",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/f/2/f2a56007-5bca-4edf-9cc4-5f77a273636c.jpg?1752946830",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Mouth of the Storm",
+    "mtga_id": 96644,
+    "color": "U",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5844792045592336,
+    "url": "https://cards.scryfall.io/large/front/3/8/380f16d6-ad43-4e0d-9645-6abde6248182.jpg?1752946834",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/8/380f16d6-ad43-4e0d-9645-6abde6248182.jpg?1752946834",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Nanoform Sentinel",
+    "mtga_id": 96645,
+    "color": "U",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5413119679519279,
+    "url": "https://cards.scryfall.io/large/front/3/e/3eeae8c3-7939-4c79-92f0-fbdb9c1b71d3.jpg?1752946838",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/e/3eeae8c3-7939-4c79-92f0-fbdb9c1b71d3.jpg?1752946838",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Quantum Riddler",
+    "mtga_id": 96646,
+    "color": "U",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.6613998271818294,
+    "url": "https://cards.scryfall.io/large/front/1/2/120be808-ff3b-4fca-96a1-4db6b9825856.jpg?1752946843",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/1/2/120be808-ff3b-4fca-96a1-4db6b9825856.jpg?1752946843",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Scour for Scrap",
+    "mtga_id": 96647,
+    "color": "U",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5422260380892913,
+    "url": "https://cards.scryfall.io/large/front/5/1/517d1b00-7ec4-489a-ac52-657da24a6379.jpg?1752946845",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/5/1/517d1b00-7ec4-489a-ac52-657da24a6379.jpg?1752946845",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Selfcraft Mechan",
+    "mtga_id": 96648,
+    "color": "U",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5664095972579263,
+    "url": "https://cards.scryfall.io/large/front/5/b/5b2de056-5c27-44d6-871d-909411bd52dd.jpg?1752946852",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/5/b/5b2de056-5c27-44d6-871d-909411bd52dd.jpg?1752946852",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Sinister Cryologist",
+    "mtga_id": 96649,
+    "color": "U",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.4864683515991948,
+    "url": "https://cards.scryfall.io/large/front/e/8/e8fbe740-05ec-4ced-bb9d-3084c8c2b631.jpg?1752946852",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/8/e8fbe740-05ec-4ced-bb9d-3084c8c2b631.jpg?1752946852",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Specimen Freighter",
+    "mtga_id": 96650,
+    "color": "U",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5599973956637802,
+    "url": "https://cards.scryfall.io/large/front/b/8/b862a9f8-2361-4220-99bd-ae2530905195.jpg?1752946860",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/8/b862a9f8-2361-4220-99bd-ae2530905195.jpg?1753296599",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Starbreach Whale",
+    "mtga_id": 96651,
+    "color": "U",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5324970414201183,
+    "url": "https://cards.scryfall.io/large/front/8/a/8a1a0476-7145-4493-97e5-4fc05c85e476.jpg?1752946862",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/8/a/8a1a0476-7145-4493-97e5-4fc05c85e476.jpg?1752946862",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Starfield Vocalist",
+    "mtga_id": 96652,
+    "color": "U",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5372382301999685,
+    "url": "https://cards.scryfall.io/large/front/d/e/deca0b2a-e7f3-444a-883d-7c41dd62c9cc.jpg?1752946868",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/d/e/deca0b2a-e7f3-444a-883d-7c41dd62c9cc.jpg?1752946868",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Starwinder",
+    "mtga_id": 96653,
+    "color": "U",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5645785607077968,
+    "url": "https://cards.scryfall.io/large/front/2/7/27d1a010-5790-4b35-9fdc-0e366eed021d.jpg?1752946871",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/2/7/27d1a010-5790-4b35-9fdc-0e366eed021d.jpg?1752946871",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Steelswarm Operator",
+    "mtga_id": 96654,
+    "color": "U",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5266742878917786,
+    "url": "https://cards.scryfall.io/large/front/c/a/ca468b86-f31a-4cd7-a574-eb984bc4bc3e.jpg?1752946876",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/c/a/ca468b86-f31a-4cd7-a574-eb984bc4bc3e.jpg?1753683154",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Synthesizer Labship",
+    "mtga_id": 96655,
+    "color": "U",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5934081750143926,
+    "url": "https://cards.scryfall.io/large/front/f/b/fba6332c-acba-43f9-877c-ca6c5328aae9.jpg?1752946881",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/f/b/fba6332c-acba-43f9-877c-ca6c5328aae9.jpg?1753296609",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Tractor Beam",
+    "mtga_id": 96656,
+    "color": "U",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5823865692162964,
+    "url": "https://cards.scryfall.io/large/front/e/f/efc96d54-d6e1-49b6-b4c2-70b997776548.jpg?1752946884",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/f/efc96d54-d6e1-49b6-b4c2-70b997776548.jpg?1752946884",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Unravel",
+    "mtga_id": 96657,
+    "color": "U",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5521867921240634,
+    "url": "https://cards.scryfall.io/large/front/e/8/e8978214-c853-453d-872d-af56bdaaa3d7.jpg?1752946891",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/8/e8978214-c853-453d-872d-af56bdaaa3d7.jpg?1752946891",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Uthros Psionicist",
+    "mtga_id": 96658,
+    "color": "U",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5742315602245567,
+    "url": "https://cards.scryfall.io/large/front/e/2/e23cc5fd-afe4-480c-8858-ed80a082584e.jpg?1752946892",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/2/e23cc5fd-afe4-480c-8858-ed80a082584e.jpg?1752946892",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Uthros Scanship",
+    "mtga_id": 96659,
+    "color": "U",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5666059010195125,
+    "url": "https://cards.scryfall.io/large/front/1/f/1f93887f-35c5-472f-83d0-54227b3bd1d2.jpg?1752946899",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/1/f/1f93887f-35c5-472f-83d0-54227b3bd1d2.jpg?1753296631",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Weftwalking",
+    "mtga_id": 96660,
+    "color": "U",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.5878405583143202,
+    "url": "https://cards.scryfall.io/large/front/3/9/39d48ddd-4529-4284-9da3-5272ad362b9b.jpg?1752946899",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/9/39d48ddd-4529-4284-9da3-5272ad362b9b.jpg?1752946899",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Alpharael, Stonechosen",
+    "mtga_id": 96661,
+    "color": "B",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.5174175568973526,
+    "url": "https://cards.scryfall.io/large/front/3/3/33063d26-37f7-4e35-8da2-5770dfabdc41.jpg?1752946907",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/3/33063d26-37f7-4e35-8da2-5770dfabdc41.jpg?1752946907",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Archenemy's Charm",
+    "mtga_id": 96662,
+    "color": "B",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5747126436781609,
+    "url": "https://cards.scryfall.io/large/front/d/c/dcde5f27-e2f0-4d2a-afa3-f300896ec4b1.jpg?1752946908",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/d/c/dcde5f27-e2f0-4d2a-afa3-f300896ec4b1.jpg?1752946908",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Beamsaw Prospector",
+    "mtga_id": 96663,
+    "color": "B",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.551414412554202,
+    "url": "https://cards.scryfall.io/large/front/6/f/6f717a3f-c6db-4e8d-8b62-6361ab33d000.jpg?1752946915",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/6/f/6f717a3f-c6db-4e8d-8b62-6361ab33d000.jpg?1752946915",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Blade of the Swarm",
+    "mtga_id": 96664,
+    "color": "B",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5282781734394638,
+    "url": "https://cards.scryfall.io/large/front/b/1/b157330a-2652-4ed9-b8fa-8e72b4eda15c.jpg?1752946918",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/1/b157330a-2652-4ed9-b8fa-8e72b4eda15c.jpg?1752946918",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Chorale of the Void",
+    "mtga_id": 96665,
+    "color": "B",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.48503094162903493,
+    "url": "https://cards.scryfall.io/large/front/7/3/7389fe88-f6ff-4497-a037-9ca283fb89e3.jpg?1752946923",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/7/3/7389fe88-f6ff-4497-a037-9ca283fb89e3.jpg?1752946923",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Comet Crawler",
+    "mtga_id": 96666,
+    "color": "B",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5383317871299654,
+    "url": "https://cards.scryfall.io/large/front/b/e/becca990-ab2e-4aa4-be7d-293ec727cb08.jpg?1752946927",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/e/becca990-ab2e-4aa4-be7d-293ec727cb08.jpg?1753683182",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Dark Endurance",
+    "mtga_id": 96667,
+    "color": "B",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5183737294761532,
+    "url": "https://cards.scryfall.io/large/front/f/a/fac87b49-a0cd-42d5-b30a-efc6d5526fc3.jpg?1752946931",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/f/a/fac87b49-a0cd-42d5-b30a-efc6d5526fc3.jpg?1753360523",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Decode Transmissions",
+    "mtga_id": 96668,
+    "color": "B",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5243586148885462,
+    "url": "https://cards.scryfall.io/large/front/c/e/cecb4936-14ca-49f9-b209-6519cab54b30.jpg?1752946935",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/c/e/cecb4936-14ca-49f9-b209-6519cab54b30.jpg?1752946935",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Depressurize",
+    "mtga_id": 96669,
+    "color": "B",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5661494461936002,
+    "url": "https://cards.scryfall.io/large/front/2/5/25520d5a-1a83-42cc-8ace-8b1156019d64.jpg?1752946939",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/2/5/25520d5a-1a83-42cc-8ace-8b1156019d64.jpg?1752946939",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Dubious Delicacy",
+    "mtga_id": 96670,
+    "color": "B",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.6077662985393659,
+    "url": "https://cards.scryfall.io/large/front/1/5/153265b4-0ca4-4245-9226-dd1a083ec91c.jpg?1752946944",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/1/5/153265b4-0ca4-4245-9226-dd1a083ec91c.jpg?1752946944",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Elegy Acolyte",
+    "mtga_id": 96671,
+    "color": "B",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.6569563723806252,
+    "url": "https://cards.scryfall.io/large/front/c/6/c69ed7c7-1f49-4299-b3e6-75150258ac59.jpg?1752946946",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/c/6/c69ed7c7-1f49-4299-b3e6-75150258ac59.jpg?1752946946",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Embrace Oblivion",
+    "mtga_id": 96672,
+    "color": "B",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5536391372590516,
+    "url": "https://cards.scryfall.io/large/front/3/7/3754fc20-7aaa-437d-97df-d6cf1c29586c.jpg?1752946952",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/7/3754fc20-7aaa-437d-97df-d6cf1c29586c.jpg?1752946952",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Entropic Battlecruiser",
+    "mtga_id": 96673,
+    "color": "B",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5194601381042059,
+    "url": "https://cards.scryfall.io/large/front/c/c/cc59796b-9025-44b6-a188-cf6684ebffb9.jpg?1752946954",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/c/c/cc59796b-9025-44b6-a188-cf6684ebffb9.jpg?1753296527",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Faller's Faithful",
+    "mtga_id": 96674,
+    "color": "B",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5801588490933614,
+    "url": "https://cards.scryfall.io/large/front/c/b/cbb1b46f-72e0-4c2f-8012-74529bd29a0d.jpg?1752946961",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/c/b/cbb1b46f-72e0-4c2f-8012-74529bd29a0d.jpg?1752946961",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Fell Gravship",
+    "mtga_id": 96675,
+    "color": "B",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5987422106079315,
+    "url": "https://cards.scryfall.io/large/front/e/9/e94b130d-3547-43c5-a319-5ebc571c2e2d.jpg?1752946962",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/9/e94b130d-3547-43c5-a319-5ebc571c2e2d.jpg?1753296549",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Gravblade Heavy",
+    "mtga_id": 96676,
+    "color": "B",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.507380073800738,
+    "url": "https://cards.scryfall.io/large/front/b/3/b3872341-d711-407b-85e4-46ccb99988e1.jpg?1752946969",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/3/b3872341-d711-407b-85e4-46ccb99988e1.jpg?1752946969",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Gravkill",
+    "mtga_id": 96677,
+    "color": "B",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5625512315078652,
+    "url": "https://cards.scryfall.io/large/front/c/f/cfa6c57f-a193-48cc-9764-d8348548a111.jpg?1753096760",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/c/f/cfa6c57f-a193-48cc-9764-d8348548a111.jpg?1753096760",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Gravpack Monoist",
+    "mtga_id": 96678,
+    "color": "B",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5686709965779734,
+    "url": "https://cards.scryfall.io/large/front/2/a/2a968f01-36ef-4cf6-b1db-630c9cde2064.jpg?1752946977",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/2/a/2a968f01-36ef-4cf6-b1db-630c9cde2064.jpg?1752946977",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Hullcarver",
+    "mtga_id": 96679,
+    "color": "B",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.555568595235301,
+    "url": "https://cards.scryfall.io/large/front/8/1/817b5b18-beb5-48c8-aa45-0515ff9ca5da.jpg?1752946978",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/8/1/817b5b18-beb5-48c8-aa45-0515ff9ca5da.jpg?1752946978",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Hylderblade",
+    "mtga_id": 96680,
+    "color": "B",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5429934332796431,
+    "url": "https://cards.scryfall.io/large/front/a/c/ac80cf18-0707-4358-bdd4-0c2b90d0a1d9.jpg?1752946985",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/a/c/ac80cf18-0707-4358-bdd4-0c2b90d0a1d9.jpg?1752946985",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Hymn of the Faller",
+    "mtga_id": 96681,
+    "color": "B",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.518918180576424,
+    "url": "https://cards.scryfall.io/large/front/e/4/e468d528-6cf0-4563-9da2-e388ba56cb9d.jpg?1752946985",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/4/e468d528-6cf0-4563-9da2-e388ba56cb9d.jpg?1752946985",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Insatiable Skittermaw",
+    "mtga_id": 96682,
+    "color": "B",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5172699069286453,
+    "url": "https://cards.scryfall.io/large/front/e/9/e9d30cca-ea33-418f-bba3-5103f1dbd751.jpg?1752946993",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/9/e9d30cca-ea33-418f-bba3-5103f1dbd751.jpg?1752946993",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Lightless Evangel",
+    "mtga_id": 96683,
+    "color": "B",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5432416016446293,
+    "url": "https://cards.scryfall.io/large/front/6/8/6860556a-6c34-4c41-89ea-f0bc495a159c.jpg?1752946994",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/6/8/6860556a-6c34-4c41-89ea-f0bc495a159c.jpg?1752946994",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Monoist Circuit-Feeder",
+    "mtga_id": 96684,
+    "color": "B",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5913012221423436,
+    "url": "https://cards.scryfall.io/large/front/9/5/957ae7aa-98d6-402a-9b20-e3e5b7e8dfe3.jpg?1752947001",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/9/5/957ae7aa-98d6-402a-9b20-e3e5b7e8dfe3.jpg?1752947001",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Monoist Sentry",
+    "mtga_id": 96685,
+    "color": "B",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5315227934044617,
+    "url": "https://cards.scryfall.io/large/front/a/c/acc503e2-5c3a-4200-beb0-7d193d6c869e.jpg?1752947002",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/a/c/acc503e2-5c3a-4200-beb0-7d193d6c869e.jpg?1752947002",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Perigee Beckoner",
+    "mtga_id": 96686,
+    "color": "B",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5674667305121606,
+    "url": "https://cards.scryfall.io/large/front/f/3/f3666a08-d449-496f-969a-bf21d4afbd77.jpg?1752947009",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/f/3/f3666a08-d449-496f-969a-bf21d4afbd77.jpg?1752947009",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Requiem Monolith",
+    "mtga_id": 96687,
+    "color": "B",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5495972007486369,
+    "url": "https://cards.scryfall.io/large/front/8/3/837d710a-652f-4c60-a52d-d786231160a4.jpg?1752947010",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/8/3/837d710a-652f-4c60-a52d-d786231160a4.jpg?1752947010",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Scrounge for Eternity",
+    "mtga_id": 96688,
+    "color": "B",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.494499509857314,
+    "url": "https://cards.scryfall.io/large/front/b/a/baeff907-017e-4dee-aae1-19dfaab309de.jpg?1752947016",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/a/baeff907-017e-4dee-aae1-19dfaab309de.jpg?1752947016",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Sothera, the Supervoid",
+    "mtga_id": 96689,
+    "color": "B",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.5313763029142735,
+    "url": "https://cards.scryfall.io/large/front/e/9/e99d6fc0-dcf2-4b25-81c2-02c230a36246.jpg?1752947018",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/9/e99d6fc0-dcf2-4b25-81c2-02c230a36246.jpg?1752947018",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Sunset Saboteur",
+    "mtga_id": 96690,
+    "color": "B",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.6128293241695304,
+    "url": "https://cards.scryfall.io/large/front/3/9/396bca07-82ba-49b7-b79e-7784b3a06d48.jpg?1752947024",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/9/396bca07-82ba-49b7-b79e-7784b3a06d48.jpg?1752947024",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Susurian Dirgecraft",
+    "mtga_id": 96691,
+    "color": "B",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5420763294217148,
+    "url": "https://cards.scryfall.io/large/front/b/6/b67cdb6e-9a3b-4887-924d-318faa3c443d.jpg?1752947026",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/6/b67cdb6e-9a3b-4887-924d-318faa3c443d.jpg?1753296605",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Susurian Voidborn",
+    "mtga_id": 96692,
+    "color": "B",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5551419264774313,
+    "url": "https://cards.scryfall.io/large/front/b/e/beb97e7b-0ae7-4b08-9ceb-6a7f825bcd49.jpg?1752947031",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/e/beb97e7b-0ae7-4b08-9ceb-6a7f825bcd49.jpg?1752947031",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Swarm Culler",
+    "mtga_id": 96693,
+    "color": "B",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.52179383230352,
+    "url": "https://cards.scryfall.io/large/front/2/a/2a8f583c-88b6-4797-b93e-3086845fc326.jpg?1752947034",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/2/a/2a8f583c-88b6-4797-b93e-3086845fc326.jpg?1752947034",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Temporal Intervention",
+    "mtga_id": 96694,
+    "color": "B",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5044832468145352,
+    "url": "https://cards.scryfall.io/large/front/7/9/79f9525a-4cb7-411e-b7b5-2113e93bcbc3.jpg?1752947039",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/7/9/79f9525a-4cb7-411e-b7b5-2113e93bcbc3.jpg?1753352166",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Timeline Culler",
+    "mtga_id": 96695,
+    "color": "B",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5639125774733212,
+    "url": "https://cards.scryfall.io/large/front/3/3/33410410-72f2-49c4-9e63-a72202cd075a.jpg?1752947042",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/3/33410410-72f2-49c4-9e63-a72202cd075a.jpg?1752947042",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Tragic Trajectory",
+    "mtga_id": 96696,
+    "color": "B",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5731011982803306,
+    "url": "https://cards.scryfall.io/large/front/7/8/78c8bc60-1378-4028-8ab1-3286e459bffb.jpg?1752947046",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/7/8/78c8bc60-1378-4028-8ab1-3286e459bffb.jpg?1752947046",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Umbral Collar Zealot",
+    "mtga_id": 96697,
+    "color": "B",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5731236203090507,
+    "url": "https://cards.scryfall.io/large/front/b/b/bbcc1d84-9772-475d-924a-75bb54c9bc20.jpg?1752947051",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/b/bbcc1d84-9772-475d-924a-75bb54c9bc20.jpg?1752947051",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Virus Beetle",
+    "mtga_id": 96698,
+    "color": "B",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5712801596843666,
+    "url": "https://cards.scryfall.io/large/front/e/9/e96c986c-684c-4546-a9c9-b6b903bda101.jpg?1752947055",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/4/8/488ee202-0d28-4cc0-8a7d-644d9878e952.jpg?1654567473",
+      "set_name": "Kamigawa: Neon Dynasty",
+      "released_at": "2022-02-18",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Voidforged Titan",
+    "mtga_id": 96699,
+    "color": "B",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5337198534444578,
+    "url": "https://cards.scryfall.io/large/front/6/1/6119c016-01b2-44f3-9550-6988324c1d1f.jpg?1752947060",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/6/1/6119c016-01b2-44f3-9550-6988324c1d1f.jpg?1752947060",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Vote Out",
+    "mtga_id": 96700,
+    "color": "B",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5623065147133867,
+    "url": "https://cards.scryfall.io/large/front/4/f/4f50bb47-cc4d-4b81-b5f1-817ca8744d12.jpg?1752947062",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/4/f/4f50bb47-cc4d-4b81-b5f1-817ca8744d12.jpg?1752947062",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Xu-Ifit, Osteoharmonist",
+    "mtga_id": 96701,
+    "color": "B",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.551431083325193,
+    "url": "https://cards.scryfall.io/large/front/c/0/c0838f25-2193-4305-b73a-bf0c0bb4981a.jpg?1752947068",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/c/0/c0838f25-2193-4305-b73a-bf0c0bb4981a.jpg?1752947068",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Zero Point Ballad",
+    "mtga_id": 96702,
+    "color": "B",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5735059124320869,
+    "url": "https://cards.scryfall.io/large/front/5/9/59cf9f4d-54cd-4cda-9726-65e16100ab46.jpg?1752947069",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/5/9/59cf9f4d-54cd-4cda-9726-65e16100ab46.jpg?1752947069",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Bombard",
+    "mtga_id": 96703,
+    "color": "R",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5409516855299988,
+    "url": "https://cards.scryfall.io/large/front/2/9/29492df8-3077-4ded-a6e2-51d3bd4669b4.jpg?1752947077",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/0/a/0a605abc-78e8-47ba-9022-0fad9006fd05.jpg?1555040368",
+      "set_name": "Rivals of Ixalan",
+      "released_at": "2018-01-19",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Cut Propulsion",
+    "mtga_id": 96704,
+    "color": "R",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5592483979580753,
+    "url": "https://cards.scryfall.io/large/front/d/9/d96f1c41-3d11-48a8-b962-db46a2d054de.jpg?1752947077",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/d/9/d96f1c41-3d11-48a8-b962-db46a2d054de.jpg?1752947077",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Debris Field Crusher",
+    "mtga_id": 96705,
+    "color": "R",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5223211157053753,
+    "url": "https://cards.scryfall.io/large/front/e/a/ea713f35-6442-4388-8839-2714374fb4b6.jpg?1752947084",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/a/ea713f35-6442-4388-8839-2714374fb4b6.jpg?1753296519",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Devastating Onslaught",
+    "mtga_id": 96706,
+    "color": "R",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.5579335793357934,
+    "url": "https://cards.scryfall.io/large/front/f/c/fc779971-24e2-46a8-86be-16f0b244a3d2.jpg?1752947086",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/f/c/fc779971-24e2-46a8-86be-16f0b244a3d2.jpg?1752947086",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Drill Too Deep",
+    "mtga_id": 96707,
+    "color": "R",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.4896763392857143,
+    "url": "https://cards.scryfall.io/large/front/b/9/b9d3b6e8-47c8-49e3-b204-8b659e127bde.jpg?1752947092",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/9/b9d3b6e8-47c8-49e3-b204-8b659e127bde.jpg?1752947092",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Frontline War-Rager",
+    "mtga_id": 96708,
+    "color": "R",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.4978556437631171,
+    "url": "https://cards.scryfall.io/large/front/f/a/fa232943-818b-4944-be60-2d80c806bf62.jpg?1752947094",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/f/a/fa232943-818b-4944-be60-2d80c806bf62.jpg?1752947094",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Full Bore",
+    "mtga_id": 96709,
+    "color": "R",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5099009900990099,
+    "url": "https://cards.scryfall.io/large/front/c/f/cfee64ef-d22d-4024-bc65-59cbd1731d1c.jpg?1752947099",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/c/f/cfee64ef-d22d-4024-bc65-59cbd1731d1c.jpg?1752947099",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Galvanizing Sawship",
+    "mtga_id": 96710,
+    "color": "R",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.49830531922252197,
+    "url": "https://cards.scryfall.io/large/front/5/b/5bbce9fb-401f-4e78-acd5-9d3b506687fd.jpg?1752947103",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/5/b/5bbce9fb-401f-4e78-acd5-9d3b506687fd.jpg?1753296558",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Invasive Maneuvers",
+    "mtga_id": 96711,
+    "color": "R",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5568190347519327,
+    "url": "https://cards.scryfall.io/large/front/b/6/b68010e2-7810-43cb-a52e-e73b1834e54e.jpg?1752947108",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/6/b68010e2-7810-43cb-a52e-e73b1834e54e.jpg?1752947108",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Kav Landseeker",
+    "mtga_id": 96712,
+    "color": "R",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5609021549993307,
+    "url": "https://cards.scryfall.io/large/front/7/a/7a5a7e89-50e3-43cb-af93-d7d80a630c11.jpg?1752947111",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/7/a/7a5a7e89-50e3-43cb-af93-d7d80a630c11.jpg?1752947111",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Kavaron Harrier",
+    "mtga_id": 96713,
+    "color": "R",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5621885913853317,
+    "url": "https://cards.scryfall.io/large/front/1/d/1da2a740-e4ff-4661-ba57-39b15c58e26e.jpg?1752947115",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/1/d/1da2a740-e4ff-4661-ba57-39b15c58e26e.jpg?1752947115",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Kavaron Skywarden",
+    "mtga_id": 96714,
+    "color": "R",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5132814380868309,
+    "url": "https://cards.scryfall.io/large/front/6/1/617038a8-0544-4d0e-8ff1-c786e60ecd59.jpg?1752947119",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/6/1/617038a8-0544-4d0e-8ff1-c786e60ecd59.jpg?1752947119",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Kavaron Turbodrone",
+    "mtga_id": 96715,
+    "color": "R",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5148921747235521,
+    "url": "https://cards.scryfall.io/large/front/f/5/f5e92cdd-75df-499e-94f7-22287f1000b3.jpg?1752947123",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/f/5/f5e92cdd-75df-499e-94f7-22287f1000b3.jpg?1753683197",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Lithobraking",
+    "mtga_id": 96716,
+    "color": "R",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5171875,
+    "url": "https://cards.scryfall.io/large/front/5/a/5a22024c-2c0f-4487-98d1-ee89cf3dba89.jpg?1752947127",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/5/a/5a22024c-2c0f-4487-98d1-ee89cf3dba89.jpg?1752947127",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Melded Moxite",
+    "mtga_id": 96717,
+    "color": "R",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.558258733495524,
+    "url": "https://cards.scryfall.io/large/front/4/7/474c067f-eb24-4ae8-b4c0-f6f8e24cdb2a.jpg?1752947131",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/4/7/474c067f-eb24-4ae8-b4c0-f6f8e24cdb2a.jpg?1752947131",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Memorial Team Leader",
+    "mtga_id": 96718,
+    "color": "R",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5342979635584137,
+    "url": "https://cards.scryfall.io/large/front/3/d/3ddc240a-62df-4773-98d7-48a9adaf1846.jpg?1752947135",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/d/3ddc240a-62df-4773-98d7-48a9adaf1846.jpg?1752947135",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Memorial Vault",
+    "mtga_id": 96719,
+    "color": "R",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5106479383778886,
+    "url": "https://cards.scryfall.io/large/front/a/1/a14ecd13-325a-4555-b1dd-d0d0d0826031.jpg?1752947139",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/a/1/a14ecd13-325a-4555-b1dd-d0d0d0826031.jpg?1752947139",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Molecular Modifier",
+    "mtga_id": 96720,
+    "color": "R",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5486065942862861,
+    "url": "https://cards.scryfall.io/large/front/7/b/7b80b9c9-a871-4c04-b8be-feb81a900591.jpg?1752947143",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/7/b/7b80b9c9-a871-4c04-b8be-feb81a900591.jpg?1753683209",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Nebula Dragon",
+    "mtga_id": 96721,
+    "color": "R",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5664753008335766,
+    "url": "https://cards.scryfall.io/large/front/0/e/0ee509dd-9fba-4b6d-a9d4-cc8bf5822ddd.jpg?1752947147",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/0/e/0ee509dd-9fba-4b6d-a9d4-cc8bf5822ddd.jpg?1752947147",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Nova Hellkite",
+    "mtga_id": 96722,
+    "color": "R",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.6198670316777474,
+    "url": "https://cards.scryfall.io/large/front/4/2/424af0d0-398c-4d78-9ad5-2171bf1bcbd1.jpg?1752947152",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/4/2/424af0d0-398c-4d78-9ad5-2171bf1bcbd1.jpg?1752947152",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Orbital Plunge",
+    "mtga_id": 96723,
+    "color": "R",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5732530240927721,
+    "url": "https://cards.scryfall.io/large/front/2/d/2dc7cc17-5319-4694-99c6-8c56a0b40a44.jpg?1752947156",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/2/d/2dc7cc17-5319-4694-99c6-8c56a0b40a44.jpg?1752947156",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Oreplate Pangolin",
+    "mtga_id": 96724,
+    "color": "R",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5361199118077558,
+    "url": "https://cards.scryfall.io/large/front/9/0/90209957-95db-4b59-979a-316d14ef876c.jpg?1752947160",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/9/0/90209957-95db-4b59-979a-316d14ef876c.jpg?1752947160",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Pain for All",
+    "mtga_id": 96725,
+    "color": "R",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5482288828337875,
+    "url": "https://cards.scryfall.io/large/front/d/2/d2948913-817b-4715-92d5-ed3cde347be7.jpg?1752947164",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/d/2/d2948913-817b-4715-92d5-ed3cde347be7.jpg?1752947164",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Plasma Bolt",
+    "mtga_id": 96726,
+    "color": "R",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5519773540920823,
+    "url": "https://cards.scryfall.io/large/front/a/1/a1a1834b-76c2-4496-b8c5-18b69ab34c4c.jpg?1752947168",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/a/1/a1a1834b-76c2-4496-b8c5-18b69ab34c4c.jpg?1752947168",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Possibility Technician",
+    "mtga_id": 96727,
+    "color": "R",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.6088721162062091,
+    "url": "https://cards.scryfall.io/large/front/4/b/4b146c78-403f-48c8-941d-41114498bb89.jpg?1752947171",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/4/b/4b146c78-403f-48c8-941d-41114498bb89.jpg?1752947171",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Red Tiger Mechan",
+    "mtga_id": 96728,
+    "color": "R",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.4962204168138467,
+    "url": "https://cards.scryfall.io/large/front/b/7/b7b2fa48-cd2d-42ea-afd8-8cbd7a1bcdab.jpg?1752947176",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/7/b7b2fa48-cd2d-42ea-afd8-8cbd7a1bcdab.jpg?1752947176",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Remnant Elemental",
+    "mtga_id": 96729,
+    "color": "R",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.528048405291765,
+    "url": "https://cards.scryfall.io/large/front/8/3/830d5532-3b24-470e-912f-f0f5df1cb530.jpg?1752947179",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/8/3/830d5532-3b24-470e-912f-f0f5df1cb530.jpg?1752947179",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Rig for War",
+    "mtga_id": 96730,
+    "color": "R",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5064935064935064,
+    "url": "https://cards.scryfall.io/large/front/3/e/3edd0515-dcc4-4cb5-8b54-9c00173d8a6d.jpg?1752947184",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/e/3edd0515-dcc4-4cb5-8b54-9c00173d8a6d.jpg?1752947184",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Roving Actuator",
+    "mtga_id": 96731,
+    "color": "R",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5259621258399512,
+    "url": "https://cards.scryfall.io/large/front/1/1/1111173b-ea49-4de4-b5b0-07d768c626b9.jpg?1752947187",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/1/1/1111173b-ea49-4de4-b5b0-07d768c626b9.jpg?1752947187",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Ruinous Rampage",
+    "mtga_id": 96732,
+    "color": "R",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.42533081285444235,
+    "url": "https://cards.scryfall.io/large/front/9/1/91d7a4c2-1a4b-4e9f-b543-225b6906752f.jpg?1752947194",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/9/1/91d7a4c2-1a4b-4e9f-b543-225b6906752f.jpg?1752947194",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Rust Harvester",
+    "mtga_id": 96733,
+    "color": "R",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5781848004373975,
+    "url": "https://cards.scryfall.io/large/front/7/c/7ce58765-d2f4-4fbf-8635-580c9400ff2e.jpg?1752947195",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/7/c/7ce58765-d2f4-4fbf-8635-580c9400ff2e.jpg?1752947195",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Slagdrill Scrapper",
+    "mtga_id": 96734,
+    "color": "R",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5358118999229098,
+    "url": "https://cards.scryfall.io/large/front/1/5/155dcf54-8fdb-4715-97dc-4eb5d3d80d78.jpg?1752947202",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/1/5/155dcf54-8fdb-4715-97dc-4eb5d3d80d78.jpg?1752947202",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Systems Override",
+    "mtga_id": 96735,
+    "color": "R",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5619459905174191,
+    "url": "https://cards.scryfall.io/large/front/2/a/2a34c71b-8d3c-435b-9cf8-4902f997d10d.jpg?1752947203",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/2/a/2a34c71b-8d3c-435b-9cf8-4902f997d10d.jpg?1752947203",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Tannuk, Steadfast Second",
+    "mtga_id": 96736,
+    "color": "R",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.5383843452082288,
+    "url": "https://cards.scryfall.io/large/front/4/4/44607ed3-9523-40ac-9f61-0edd011cf762.jpg?1752947211",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/4/4/44607ed3-9523-40ac-9f61-0edd011cf762.jpg?1752947211",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Terminal Velocity",
+    "mtga_id": 96737,
+    "color": "R",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.4641589779985806,
+    "url": "https://cards.scryfall.io/large/front/1/d/1d18dc06-16f0-4a3b-8d52-dbf4aa2c393d.jpg?1752947211",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/1/d/1d18dc06-16f0-4a3b-8d52-dbf4aa2c393d.jpg?1752947211",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Terrapact Intimidator",
+    "mtga_id": 96738,
+    "color": "R",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5968655643421998,
+    "url": "https://cards.scryfall.io/large/front/1/3/13fe3358-fd68-4245-a2ad-aa9200cf4655.jpg?1752947219",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/1/3/13fe3358-fd68-4245-a2ad-aa9200cf4655.jpg?1752947219",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Territorial Bruntar",
+    "mtga_id": 96739,
+    "color": "R",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5601824478418785,
+    "url": "https://cards.scryfall.io/large/front/d/b/dbb25585-6048-4a85-828e-675bf0da6508.jpg?1752947221",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/d/b/dbb25585-6048-4a85-828e-675bf0da6508.jpg?1752947221",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Vaultguard Trooper",
+    "mtga_id": 96740,
+    "color": "R",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.536848792884371,
+    "url": "https://cards.scryfall.io/large/front/3/6/36afe3b1-43a2-47b4-bc0a-24efb1e2e5a0.jpg?1752947227",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/6/36afe3b1-43a2-47b4-bc0a-24efb1e2e5a0.jpg?1752947227",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Warmaker Gunship",
+    "mtga_id": 96741,
+    "color": "R",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.6131875049177749,
+    "url": "https://cards.scryfall.io/large/front/9/e/9e5957f4-1cae-4989-8b40-27fc6e2fcf5e.jpg?1752947231",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/9/e/9e5957f4-1cae-4989-8b40-27fc6e2fcf5e.jpg?1753296635",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Weapons Manufacturing",
+    "mtga_id": 96742,
+    "color": "R",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.47304347826086957,
+    "url": "https://cards.scryfall.io/large/front/a/0/a058f1a6-318c-4bba-981e-ace079ada806.jpg?1752947235",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/a/0/a058f1a6-318c-4bba-981e-ace079ada806.jpg?1752947235",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Weftstalker Ardent",
+    "mtga_id": 96743,
+    "color": "R",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5378208714028218,
+    "url": "https://cards.scryfall.io/large/front/c/d/cddb48cc-8eb1-47ce-90f0-7aad1e93e2c4.jpg?1752947241",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/c/d/cddb48cc-8eb1-47ce-90f0-7aad1e93e2c4.jpg?1752947241",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Zookeeper Mechan",
+    "mtga_id": 96744,
+    "color": "R",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5603819276274822,
+    "url": "https://cards.scryfall.io/large/front/8/d/8d5cd0be-4337-4aba-a4f6-5adab7735a73.jpg?1753120476",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/8/d/8d5cd0be-4337-4aba-a4f6-5adab7735a73.jpg?1753120476",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Atmospheric Greenhouse",
+    "mtga_id": 96745,
+    "color": "G",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5053200974855853,
+    "url": "https://cards.scryfall.io/large/front/b/f/bf05e378-7a0c-49e3-8c6e-c0fd56796434.jpg?1752947251",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/f/bf05e378-7a0c-49e3-8c6e-c0fd56796434.jpg?1753296467",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Bioengineered Future",
+    "mtga_id": 96746,
+    "color": "G",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.4377952755905512,
+    "url": "https://cards.scryfall.io/large/front/8/0/800ee479-c1dc-4dd0-9b98-436c78997958.jpg?1752947252",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/8/0/800ee479-c1dc-4dd0-9b98-436c78997958.jpg?1752947252",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Biosynthic Burst",
+    "mtga_id": 96747,
+    "color": "G",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.57154543837809,
+    "url": "https://cards.scryfall.io/large/front/6/d/6d73a4a8-5d52-4c12-a96a-45cd202bcc62.jpg?1752947258",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/6/d/6d73a4a8-5d52-4c12-a96a-45cd202bcc62.jpg?1752947258",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Blooming Stinger",
+    "mtga_id": 96748,
+    "color": "G",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5551578462247484,
+    "url": "https://cards.scryfall.io/large/front/2/e/2ee859bd-d99c-4b1d-9372-7ff4fc1e8c6a.jpg?1752947262",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/2/e/2ee859bd-d99c-4b1d-9372-7ff4fc1e8c6a.jpg?1752947262",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Broodguard Elite",
+    "mtga_id": 96749,
+    "color": "G",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5300571545213308,
+    "url": "https://cards.scryfall.io/large/front/0/8/08b1d019-65ab-4dea-9076-041fd6338a35.jpg?1752947266",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/0/8/08b1d019-65ab-4dea-9076-041fd6338a35.jpg?1752947266",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Close Encounter",
+    "mtga_id": 96750,
+    "color": "G",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5670847699441208,
+    "url": "https://cards.scryfall.io/large/front/a/8/a8a77351-9115-470f-8141-222c1916b337.jpg?1752947272",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/a/8/a8a77351-9115-470f-8141-222c1916b337.jpg?1752947272",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Diplomatic Relations",
+    "mtga_id": 96751,
+    "color": "G",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5679183207682316,
+    "url": "https://cards.scryfall.io/large/front/e/0/e0a104c5-61fb-4733-97ab-a31a15a49443.jpg?1753096637",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/0/e0a104c5-61fb-4733-97ab-a31a15a49443.jpg?1753096637",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Drix Fatemaker",
+    "mtga_id": 96752,
+    "color": "G",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5398026819504299,
+    "url": "https://cards.scryfall.io/large/front/1/b/1beb7566-305e-4091-bdc4-cf4c789ac05a.jpg?1752947281",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/1/b/1beb7566-305e-4091-bdc4-cf4c789ac05a.jpg?1752947281",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Edge Rover",
+    "mtga_id": 96753,
+    "color": "G",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.572891418611618,
+    "url": "https://cards.scryfall.io/large/front/9/0/90741ec9-6893-42d4-b510-8664666094e3.jpg?1752947282",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/9/0/90741ec9-6893-42d4-b510-8664666094e3.jpg?1753683145",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Eumidian Terrabotanist",
+    "mtga_id": 96754,
+    "color": "G",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5661929693343306,
+    "url": "https://cards.scryfall.io/large/front/6/4/64fb2981-86ed-478a-89cd-c6bb078a5bc7.jpg?1752947290",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/6/4/64fb2981-86ed-478a-89cd-c6bb078a5bc7.jpg?1753683225",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Eusocial Engineering",
+    "mtga_id": 96755,
+    "color": "G",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5703750041154974,
+    "url": "https://cards.scryfall.io/large/front/0/1/011bd7d8-6d60-482a-91b7-d3f0aad13b71.jpg?1752947291",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/0/1/011bd7d8-6d60-482a-91b7-d3f0aad13b71.jpg?1752947291",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Famished Worldsire",
+    "mtga_id": 96756,
+    "color": "G",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.5580246913580247,
+    "url": "https://cards.scryfall.io/large/front/2/9/2934c9c8-d23a-462b-83d5-94e88c8663ac.jpg?1752947299",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/2/9/2934c9c8-d23a-462b-83d5-94e88c8663ac.jpg?1752947299",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Frenzied Baloth",
+    "mtga_id": 96757,
+    "color": "G",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.561740639722291,
+    "url": "https://cards.scryfall.io/large/front/c/7/c72d85e9-a0bc-4f73-8d73-c58843577f4e.jpg?1752947300",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/c/7/c72d85e9-a0bc-4f73-8d73-c58843577f4e.jpg?1752947300",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Fungal Colossus",
+    "mtga_id": 96758,
+    "color": "G",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5553549396647709,
+    "url": "https://cards.scryfall.io/large/front/9/d/9dc9559f-cece-4c85-807c-158291666007.jpg?1752947307",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/9/d/9dc9559f-cece-4c85-807c-158291666007.jpg?1752947307",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Galactic Wayfarer",
+    "mtga_id": 96759,
+    "color": "G",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5848830349976307,
+    "url": "https://cards.scryfall.io/large/front/8/5/85b898d2-050f-49a2-87af-07d54d105336.jpg?1752947308",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/8/5/85b898d2-050f-49a2-87af-07d54d105336.jpg?1752947308",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Gene Pollinator",
+    "mtga_id": 96760,
+    "color": "G",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5731969378161794,
+    "url": "https://cards.scryfall.io/large/front/c/e/ce7a8eec-a029-4ee1-b2d6-405d903d4640.jpg?1752947315",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/c/e/ce7a8eec-a029-4ee1-b2d6-405d903d4640.jpg?1752947315",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Germinating Wurm",
+    "mtga_id": 96761,
+    "color": "G",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5592329253036469,
+    "url": "https://cards.scryfall.io/large/front/f/c/fcde173a-6314-4904-bddd-68b2ab1e4867.jpg?1752947317",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/f/c/fcde173a-6314-4904-bddd-68b2ab1e4867.jpg?1752947317",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Glacier Godmaw",
+    "mtga_id": 96762,
+    "color": "G",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5989499402193689,
+    "url": "https://cards.scryfall.io/large/front/d/3/d3291c51-e963-4970-813d-9a06a47aa71e.jpg?1752947322",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/d/3/d3291c51-e963-4970-813d-9a06a47aa71e.jpg?1752947322",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Harmonious Grovestrider",
+    "mtga_id": 96763,
+    "color": "G",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5832375290917758,
+    "url": "https://cards.scryfall.io/large/front/e/3/e320abed-f145-42d3-b402-4f82e3a56389.jpg?1752947325",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/3/e320abed-f145-42d3-b402-4f82e3a56389.jpg?1752947325",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Hemosymbic Mite",
+    "mtga_id": 96764,
+    "color": "G",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5410328456544908,
+    "url": "https://cards.scryfall.io/large/front/c/1/c14137a4-2d44-444c-ad50-e2edf9380571.jpg?1752947330",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/c/1/c14137a4-2d44-444c-ad50-e2edf9380571.jpg?1752947330",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Icecave Crasher",
+    "mtga_id": 96765,
+    "color": "G",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5608501488587496,
+    "url": "https://cards.scryfall.io/large/front/e/6/e6c1ed0c-0c0d-47a7-8ebc-67854cb226e0.jpg?1752947334",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/6/e6c1ed0c-0c0d-47a7-8ebc-67854cb226e0.jpg?1752947334",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Icetill Explorer",
+    "mtga_id": 96766,
+    "color": "G",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5257717938256494,
+    "url": "https://cards.scryfall.io/large/front/d/9/d9482aab-6ddf-48e1-84fa-b13d5ff81e69.jpg?1752947338",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/d/9/d9482aab-6ddf-48e1-84fa-b13d5ff81e69.jpg?1752947338",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Intrepid Tenderfoot",
+    "mtga_id": 96767,
+    "color": "G",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5454195905027396,
+    "url": "https://cards.scryfall.io/large/front/8/0/809df0ea-deff-47b9-83df-cc1f360d377e.jpg?1752947342",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/8/0/809df0ea-deff-47b9-83df-cc1f360d377e.jpg?1752947342",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Larval Scoutlander",
+    "mtga_id": 96768,
+    "color": "G",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5906830103552306,
+    "url": "https://cards.scryfall.io/large/front/d/6/d6083f43-58dc-46fc-aeff-347b1080417b.jpg?1752947346",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/d/6/d6083f43-58dc-46fc-aeff-347b1080417b.jpg?1753683164",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Lashwhip Predator",
+    "mtga_id": 96769,
+    "color": "G",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5440921690921691,
+    "url": "https://cards.scryfall.io/large/front/2/4/24553e98-29a9-47e3-91c7-9add708d9ad1.jpg?1752947350",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/2/4/24553e98-29a9-47e3-91c7-9add708d9ad1.jpg?1752947350",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Loading Zone",
+    "mtga_id": 96770,
+    "color": "G",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.42503022974607013,
+    "url": "https://cards.scryfall.io/large/front/0/d/0d2c95bd-79af-4a23-b265-62cc0b164e3e.jpg?1752947354",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/0/d/0d2c95bd-79af-4a23-b265-62cc0b164e3e.jpg?1752947354",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Meltstrider Eulogist",
+    "mtga_id": 96771,
+    "color": "G",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.534993309674792,
+    "url": "https://cards.scryfall.io/large/front/d/f/df61aa0c-effc-4d57-be19-876a82c41d33.jpg?1752947359",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/d/f/df61aa0c-effc-4d57-be19-876a82c41d33.jpg?1752947359",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Meltstrider's Gear",
+    "mtga_id": 96772,
+    "color": "G",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.4858104858104858,
+    "url": "https://cards.scryfall.io/large/front/d/7/d75629cb-91e2-46fa-9c80-6feb29e1ceb8.jpg?1752947361",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/d/7/d75629cb-91e2-46fa-9c80-6feb29e1ceb8.jpg?1752947361",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Meltstrider's Resolve",
+    "mtga_id": 96773,
+    "color": "G",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5872109458924634,
+    "url": "https://cards.scryfall.io/large/front/5/3/53c08af4-b975-4d9d-baba-73e6727f2778.jpg?1752947367",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/5/3/53c08af4-b975-4d9d-baba-73e6727f2778.jpg?1752947367",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Mightform Harmonizer",
+    "mtga_id": 96774,
+    "color": "G",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5924267420850028,
+    "url": "https://cards.scryfall.io/large/front/f/3/f32302f1-b54f-4489-9d0b-9b771e59da06.jpg?1752947370",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/f/3/f32302f1-b54f-4489-9d0b-9b771e59da06.jpg?1752947370",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Ouroboroid",
+    "mtga_id": 96775,
+    "color": "G",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.6552616446233468,
+    "url": "https://cards.scryfall.io/large/front/2/0/209c591a-4ab2-4e89-9523-a7b766cf4e51.jpg?1752947376",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/2/0/209c591a-4ab2-4e89-9523-a7b766cf4e51.jpg?1752947376",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Pull Through the Weft",
+    "mtga_id": 96776,
+    "color": "G",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5016841688131564,
+    "url": "https://cards.scryfall.io/large/front/a/7/a70d0877-1a1e-436b-bf8c-0ff6df9efc6a.jpg?1752947378",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/a/7/a70d0877-1a1e-436b-bf8c-0ff6df9efc6a.jpg?1752947378",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Sami's Curiosity",
+    "mtga_id": 96777,
+    "color": "G",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5388830853013203,
+    "url": "https://cards.scryfall.io/large/front/7/0/703ad0f3-bd05-42b0-85fb-0cd37807dc91.jpg?1752947384",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/7/0/703ad0f3-bd05-42b0-85fb-0cd37807dc91.jpg?1753360552",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Seedship Agrarian",
+    "mtga_id": 96778,
+    "color": "G",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5693242717283914,
+    "url": "https://cards.scryfall.io/large/front/2/f/2fc7946d-37b0-4dc8-9daa-8d2204d8e4d2.jpg?1752947386",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/2/f/2fc7946d-37b0-4dc8-9daa-8d2204d8e4d2.jpg?1752947386",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Seedship Impact",
+    "mtga_id": 96779,
+    "color": "G",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5781137272906145,
+    "url": "https://cards.scryfall.io/large/front/d/0/d060d95f-f33a-4fc0-b002-c394d4cd82ce.jpg?1752947393",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/d/0/d060d95f-f33a-4fc0-b002-c394d4cd82ce.jpg?1752947393",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Shattered Wings",
+    "mtga_id": 96780,
+    "color": "G",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5174675165481736,
+    "url": "https://cards.scryfall.io/large/front/b/b/bbece737-bd4f-4dc8-bf5c-f77930246ab1.jpg?1752947394",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/b/bbece737-bd4f-4dc8-bf5c-f77930246ab1.jpg?1752947394",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Skystinger",
+    "mtga_id": 96781,
+    "color": "G",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.528888202911972,
+    "url": "https://cards.scryfall.io/large/front/d/f/dfea9941-3675-4c0f-bc4d-981c28deed36.jpg?1752947402",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/d/f/dfea9941-3675-4c0f-bc4d-981c28deed36.jpg?1752947402",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Sledge-Class Seedship",
+    "mtga_id": 96782,
+    "color": "G",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5672396359959555,
+    "url": "https://cards.scryfall.io/large/front/d/c/dc0cb4b6-cc20-49ea-84b2-2f3af3b0a19e.jpg?1752947403",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/d/c/dc0cb4b6-cc20-49ea-84b2-2f3af3b0a19e.jpg?1753296593",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Tapestry Warden",
+    "mtga_id": 96783,
+    "color": "G",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5390224532524728,
+    "url": "https://cards.scryfall.io/large/front/7/c/7cbbab6c-43ae-4e50-97ce-532a3316591a.jpg?1752947411",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/7/c/7cbbab6c-43ae-4e50-97ce-532a3316591a.jpg?1752947411",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Terrasymbiosis",
+    "mtga_id": 96784,
+    "color": "G",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.48203677510608206,
+    "url": "https://cards.scryfall.io/large/front/2/6/26008c7d-5dbe-4da2-b475-4dd307e7bc68.jpg?1752947411",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/2/6/26008c7d-5dbe-4da2-b475-4dd307e7bc68.jpg?1752947411",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Thawbringer",
+    "mtga_id": 96785,
+    "color": "G",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5573815481475503,
+    "url": "https://cards.scryfall.io/large/front/0/b/0b7f934f-8eb4-408b-a55f-245ec5cc4a8a.jpg?1752947419",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/0/b/0b7f934f-8eb4-408b-a55f-245ec5cc4a8a.jpg?1752947419",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Alpharael, Dreaming Acolyte",
+    "mtga_id": 96786,
+    "color": "UB",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5848191102648433,
+    "url": "https://cards.scryfall.io/large/front/3/4/349a2211-2b23-418d-a1ef-1c72ad2e171d.jpg?1752947420",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/4/349a2211-2b23-418d-a1ef-1c72ad2e171d.jpg?1752947420",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Biomechan Engineer",
+    "mtga_id": 96787,
+    "color": "UG",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.6043840313494979,
+    "url": "https://cards.scryfall.io/large/front/7/e/7edcef2c-029c-46bd-bfeb-ff56a57dd63a.jpg?1752947428",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/7/e/7edcef2c-029c-46bd-bfeb-ff56a57dd63a.jpg?1752947428",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Biotech Specialist",
+    "mtga_id": 96788,
+    "color": "RG",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.6007834757834758,
+    "url": "https://cards.scryfall.io/large/front/1/2/127c221f-94e7-4a0e-a7a6-79ef399862d3.jpg?1752947432",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/1/2/127c221f-94e7-4a0e-a7a6-79ef399862d3.jpg?1752947432",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Cosmogoyf",
+    "mtga_id": 96789,
+    "color": "BG",
+    "rarity": "rare",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/5/e/5e07d3c6-60a5-44d1-a926-6414be85bd50.jpg?1752947436",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/5/e/5e07d3c6-60a5-44d1-a926-6414be85bd50.jpg?1752947436",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Dyadrine, Synthesis Amalgam",
+    "mtga_id": 96790,
+    "color": "WG",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5786042535000534,
+    "url": "https://cards.scryfall.io/large/front/9/9/994ca692-7138-4dcb-bf46-5da530f86036.jpg?1752947440",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/9/9/994ca692-7138-4dcb-bf46-5da530f86036.jpg?1752947440",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Genemorph Imago",
+    "mtga_id": 96791,
+    "color": "UG",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.6229661868095079,
+    "url": "https://cards.scryfall.io/large/front/4/0/40f0ecf7-f49e-46ff-aa5b-9ff5361b72c5.jpg?1752947444",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/4/0/40f0ecf7-f49e-46ff-aa5b-9ff5361b72c5.jpg?1752947444",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Haliya, Ascendant Cadet",
+    "mtga_id": 96792,
+    "color": "WG",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5542870190661034,
+    "url": "https://cards.scryfall.io/large/front/6/8/683d6eba-7f98-4105-b318-7f2290012f32.jpg?1752947448",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/6/8/683d6eba-7f98-4105-b318-7f2290012f32.jpg?1752947448",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Infinite Guideline Station",
+    "mtga_id": 96793,
+    "color": "WUBRG",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.4772727272727273,
+    "url": "https://cards.scryfall.io/large/front/5/6/5688894a-bbec-476b-ae2e-94000be258d0.jpg?1752947452",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/5/6/5688894a-bbec-476b-ae2e-94000be258d0.jpg?1753296564",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Interceptor Mechan",
+    "mtga_id": 96794,
+    "color": "BR",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5749729864516665,
+    "url": "https://cards.scryfall.io/large/front/1/9/198211af-f413-4e9b-9baf-4b4fcb81eadc.jpg?1752947458",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/1/9/198211af-f413-4e9b-9baf-4b4fcb81eadc.jpg?1752947458",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Mm'menon, Uthros Exile",
+    "mtga_id": 96795,
+    "color": "UR",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5288684850121523,
+    "url": "https://cards.scryfall.io/large/front/5/5/5546c044-5826-48c3-9d28-866f3c3c5f2c.jpg?1752947461",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/5/5/5546c044-5826-48c3-9d28-866f3c3c5f2c.jpg?1752947461",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Mutinous Massacre",
+    "mtga_id": 96796,
+    "color": "BR",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5954421503700819,
+    "url": "https://cards.scryfall.io/large/front/4/2/42d5034f-18f0-4d57-9840-6be52c286247.jpg?1752947466",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/4/2/42d5034f-18f0-4d57-9840-6be52c286247.jpg?1752947466",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Pinnacle Emissary",
+    "mtga_id": 96797,
+    "color": "UR",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5847439916405434,
+    "url": "https://cards.scryfall.io/large/front/3/c/3c922347-f05f-40a4-bbee-6bc02a1e0de5.jpg?1752947469",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/c/3c922347-f05f-40a4-bbee-6bc02a1e0de5.jpg?1752947469",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Ragost, Deft Gastronaut",
+    "mtga_id": 96798,
+    "color": "WR",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5087662337662338,
+    "url": "https://cards.scryfall.io/large/front/0/1/011374c3-f69d-4573-8c32-5bd0fe083d6a.jpg?1752947475",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/0/1/011374c3-f69d-4573-8c32-5bd0fe083d6a.jpg?1752947475",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Sami, Ship's Engineer",
+    "mtga_id": 96799,
+    "color": "WR",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5147803199028144,
+    "url": "https://cards.scryfall.io/large/front/7/5/75c38cc9-07de-46d4-8195-f04b2b7e0fee.jpg?1752947477",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/7/5/75c38cc9-07de-46d4-8195-f04b2b7e0fee.jpg?1752947477",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Sami, Wildcat Captain",
+    "mtga_id": 96800,
+    "color": "WR",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.5105105105105106,
+    "url": "https://cards.scryfall.io/large/front/b/e/bed64207-9193-4770-8f8f-e3203289d5a6.jpg?1752947484",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/e/bed64207-9193-4770-8f8f-e3203289d5a6.jpg?1752947484",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Seedship Broodtender",
+    "mtga_id": 96801,
+    "color": "BG",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5504771760377142,
+    "url": "https://cards.scryfall.io/large/front/1/a/1abc176f-2ccf-4371-b4b5-030dd99ff7fc.jpg?1752947486",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/1/a/1abc176f-2ccf-4371-b4b5-030dd99ff7fc.jpg?1752947486",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Singularity Rupture",
+    "mtga_id": 96802,
+    "color": "UB",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5924906132665833,
+    "url": "https://cards.scryfall.io/large/front/a/3/a34012e3-ec7a-4713-a2c2-f8efff49e364.jpg?1752947492",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/a/3/a34012e3-ec7a-4713-a2c2-f8efff49e364.jpg?1752947492",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Space-Time Anomaly",
+    "mtga_id": 96803,
+    "color": "WU",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.555045871559633,
+    "url": "https://cards.scryfall.io/large/front/e/d/edb8dc2a-ddce-48fa-b57e-0e57c87c6671.jpg?1752947494",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/d/edb8dc2a-ddce-48fa-b57e-0e57c87c6671.jpg?1752947494",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Station Monitor",
+    "mtga_id": 96804,
+    "color": "WU",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5915387093310426,
+    "url": "https://cards.scryfall.io/large/front/b/a/ba9f6d16-ee3e-4fbb-b78a-6292188eb61f.jpg?1752947501",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/a/ba9f6d16-ee3e-4fbb-b78a-6292188eb61f.jpg?1752947501",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Syr Vondam, Sunstar Exemplar",
+    "mtga_id": 96805,
+    "color": "WB",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.6039316430246845,
+    "url": "https://cards.scryfall.io/large/front/4/9/49554198-549b-4066-86ce-77a03fda0a2f.jpg?1752947501",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/4/9/49554198-549b-4066-86ce-77a03fda0a2f.jpg?1752947501",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Syr Vondam, the Lucent",
+    "mtga_id": 96806,
+    "color": "WB",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5776203375703272,
+    "url": "https://cards.scryfall.io/large/front/e/a/ea954205-5ff5-493b-bf30-6212042c2bc9.jpg?1752947509",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/a/ea954205-5ff5-493b-bf30-6212042c2bc9.jpg?1752947509",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Tannuk, Memorial Ensign",
+    "mtga_id": 96807,
+    "color": "RG",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5622152859794163,
+    "url": "https://cards.scryfall.io/large/front/5/2/52498b7b-0389-4e7b-b29f-7ac86aab9229.jpg?1752947510",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/5/2/52498b7b-0389-4e7b-b29f-7ac86aab9229.jpg?1752947510",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "All-Fates Scroll",
+    "mtga_id": 96808,
+    "color": "",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.544771018455229,
+    "url": "https://cards.scryfall.io/large/front/3/a/3a5ed010-cb17-45df-b169-ebc807dae534.jpg?1752947516",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/a/3a5ed010-cb17-45df-b169-ebc807dae534.jpg?1752947516",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Bygone Colossus",
+    "mtga_id": 96809,
+    "color": "",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.447310243183493,
+    "url": "https://cards.scryfall.io/large/front/4/b/4bb8f2ef-4398-4a07-9130-5005356a3b4a.jpg?1752947518",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/4/b/4bb8f2ef-4398-4a07-9130-5005356a3b4a.jpg?1752947518",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Chrome Companion",
+    "mtga_id": 96810,
+    "color": "",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5284358087126253,
+    "url": "https://cards.scryfall.io/large/front/8/e/8ef269a0-1cb9-4901-81e6-43db3ae3756c.jpg?1752947525",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/8/e/8ef269a0-1cb9-4901-81e6-43db3ae3756c.jpg?1752947525",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Dauntless Scrapbot",
+    "mtga_id": 96811,
+    "color": "",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5693876569339554,
+    "url": "https://cards.scryfall.io/large/front/0/e/0efe5342-42b7-4f49-b4b4-d77055508c4d.jpg?1752947526",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/0/e/0efe5342-42b7-4f49-b4b4-d77055508c4d.jpg?1752947526",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Dawnsire, Sunstar Dreadnought",
+    "mtga_id": 96812,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.4985131116517978,
+    "url": "https://cards.scryfall.io/large/front/6/1/6133355c-3dcf-466a-b771-fe6c44d4fa4d.jpg?1752947532",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/6/1/6133355c-3dcf-466a-b771-fe6c44d4fa4d.jpg?1753296513",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "The Dominion Bracelet",
+    "mtga_id": 96813,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.4923884514435696,
+    "url": "https://cards.scryfall.io/large/front/f/5/f5360880-2849-45d6-b1aa-08c7e01083af.jpg?1752947533",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/f/5/f5360880-2849-45d6-b1aa-08c7e01083af.jpg?1752947533",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "The Endstone",
+    "mtga_id": 96814,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.5599833379616773,
+    "url": "https://cards.scryfall.io/large/front/a/4/a451a459-18e0-4c53-a171-3e9da534ebf1.jpg?1752947540",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/a/4/a451a459-18e0-4c53-a171-3e9da534ebf1.jpg?1752947540",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "The Eternity Elevator",
+    "mtga_id": 96815,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/1/b/1bb90ab9-43b9-4991-806a-0afc4d8caf5f.jpg?1752947541",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/1/b/1bb90ab9-43b9-4991-806a-0afc4d8caf5f.jpg?1752947541",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Extinguisher Battleship",
+    "mtga_id": 96816,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5780840386487903,
+    "url": "https://cards.scryfall.io/large/front/5/5/5541cdd2-84a6-4667-83eb-fffbe5b3cd3d.jpg?1752947548",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/5/5/5541cdd2-84a6-4667-83eb-fffbe5b3cd3d.jpg?1753296542",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Nutrient Block",
+    "mtga_id": 96817,
+    "color": "",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5475065508490313,
+    "url": "https://cards.scryfall.io/large/front/a/2/a26064bb-c568-4ed6-86db-3aab69b050db.jpg?1752947549",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/a/2/a26064bb-c568-4ed6-86db-3aab69b050db.jpg?1752947549",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Pinnacle Kill-Ship",
+    "mtga_id": 96818,
+    "color": "",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5663999488924025,
+    "url": "https://cards.scryfall.io/large/front/b/f/bf784de8-5ae2-4c07-92bb-a5b7f593b773.jpg?1752947555",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/f/bf784de8-5ae2-4c07-92bb-a5b7f593b773.jpg?1753296581",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Survey Mechan",
+    "mtga_id": 96819,
+    "color": "",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.5640238313473878,
+    "url": "https://cards.scryfall.io/large/front/9/b/9b4278ea-6cd8-45ad-b024-daf3dedd29e0.jpg?1752947557",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/9/b/9b4278ea-6cd8-45ad-b024-daf3dedd29e0.jpg?1752947557",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Thaumaton Torpedo",
+    "mtga_id": 96820,
+    "color": "",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.4946749324431728,
+    "url": "https://cards.scryfall.io/large/front/1/8/1817f1b5-960a-435c-bdec-8cc8cbcb3358.jpg?1752947563",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/1/8/1817f1b5-960a-435c-bdec-8cc8cbcb3358.jpg?1752947563",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Thrumming Hivepool",
+    "mtga_id": 96821,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5783650091122103,
+    "url": "https://cards.scryfall.io/large/front/8/5/85caf659-7b43-462e-a342-34703d46eb57.jpg?1752947564",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/8/5/85caf659-7b43-462e-a342-34703d46eb57.jpg?1752947564",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Virulent Silencer",
+    "mtga_id": 96822,
+    "color": "",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": 0.4998056743101438,
+    "url": "https://cards.scryfall.io/large/front/4/1/4120fcfc-3547-4774-a15d-b9cccac04e76.jpg?1752947571",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/4/1/4120fcfc-3547-4774-a15d-b9cccac04e76.jpg?1752947571",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Wurmwall Sweeper",
+    "mtga_id": 96823,
+    "color": "",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5366727239208869,
+    "url": "https://cards.scryfall.io/large/front/9/a/9ace282a-5901-4d36-ad21-17eb88bc5138.jpg?1752947572",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/9/a/9ace282a-5901-4d36-ad21-17eb88bc5138.jpg?1753296652",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Adagia, Windswept Bastion",
+    "mtga_id": 96824,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.5522030651340997,
+    "url": "https://cards.scryfall.io/large/front/c/6/c634273a-94b0-4104-9d10-ae522ece1fc7.jpg?1752947578",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/c/6/c634273a-94b0-4104-9d10-ae522ece1fc7.jpg?1752947578",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Breeding Pool",
+    "mtga_id": 96825,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5618742904324492,
+    "url": "https://cards.scryfall.io/large/front/3/c/3c750d5a-f743-41ff-b5ba-02025ca0bec2.jpg?1752947580",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/9/b98b2a35-ec2b-47fe-903d-dd292e469a3c.jpg?1593274081",
+      "set_name": "Dissension",
+      "released_at": "2006-05-05",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Command Bridge",
+    "mtga_id": 96826,
+    "color": "",
+    "rarity": "common",
+    "ever_drawn_win_rate": 0.5258876010091776,
+    "url": "https://cards.scryfall.io/large/front/2/4/247670d2-a7cd-4ed7-9c77-704c7962b815.jpg?1752947586",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/2/4/247670d2-a7cd-4ed7-9c77-704c7962b815.jpg?1752947586",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Evendo, Waking Haven",
+    "mtga_id": 96827,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.5149776927979605,
+    "url": "https://cards.scryfall.io/large/front/2/f/2fa09104-acbe-4410-b101-2fe6ac28efde.jpg?1752947587",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/2/f/2fa09104-acbe-4410-b101-2fe6ac28efde.jpg?1752947587",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Godless Shrine",
+    "mtga_id": 96828,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5375145566461488,
+    "url": "https://cards.scryfall.io/large/front/8/c/8c542ea4-98c3-4c2d-9066-205ab7aa697a.jpg?1752947593",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/e/be010c2f-06db-47e3-80bd-df3f2a21ca34.jpg?1593272969",
+      "set_name": "Guildpact",
+      "released_at": "2006-02-03",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Kavaron, Memorial World",
+    "mtga_id": 96829,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.5884103988886684,
+    "url": "https://cards.scryfall.io/large/front/6/0/60f3ca25-9dcc-4781-bf7b-ab6736d8db29.jpg?1752947594",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/6/0/60f3ca25-9dcc-4781-bf7b-ab6736d8db29.jpg?1752947594",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Sacred Foundry",
+    "mtga_id": 96830,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5243328100470958,
+    "url": "https://cards.scryfall.io/large/front/8/b/8b4e2642-3c87-4708-b9b4-2e7f7359ac7d.jpg?1752947600",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/1/6/168ef687-5797-4b45-b75b-393d8117cebd.jpg?1598918398",
+      "set_name": "Ravnica: City of Guilds",
+      "released_at": "2005-10-07",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Secluded Starforge",
+    "mtga_id": 96831,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5880377212246479,
+    "url": "https://cards.scryfall.io/large/front/a/9/a997ff9f-045a-44a2-983d-f36414cef1ab.jpg?1752947602",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/a/9/a997ff9f-045a-44a2-983d-f36414cef1ab.jpg?1752947602",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Stomping Ground",
+    "mtga_id": 96832,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5593050868641419,
+    "url": "https://cards.scryfall.io/large/front/6/9/69be21b4-c613-47c6-ba57-f4785861af3e.jpg?1752947608",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/a/2/a2773d8f-f906-475d-aaff-b7ca3b01f188.jpg?1593273024",
+      "set_name": "Guildpact",
+      "released_at": "2006-02-03",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Susur Secundi, Void Altar",
+    "mtga_id": 96833,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.52004485562097,
+    "url": "https://cards.scryfall.io/large/front/a/e/aefb8c0d-2bc6-4bec-851e-0137b4abfb22.jpg?1752947609",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/a/e/aefb8c0d-2bc6-4bec-851e-0137b4abfb22.jpg?1752947609",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Uthros, Titanic Godcore",
+    "mtga_id": 96834,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.49923195084485406,
+    "url": "https://cards.scryfall.io/large/front/1/1/11da39d6-cfa6-498d-91b1-11454cc7e5a3.jpg?1752947616",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/1/1/11da39d6-cfa6-498d-91b1-11454cc7e5a3.jpg?1752947616",
+      "set_name": "Edge of Eternities",
+      "released_at": "2025-08-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Watery Grave",
+    "mtga_id": 96835,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5458446251129178,
+    "url": "https://cards.scryfall.io/large/front/5/b/5b8170dc-6a90-46fc-9989-7575f3d402b5.jpg?1752947617",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/1/3/139b90cd-8272-457a-be32-1298145345be.jpg?1598918525",
+      "set_name": "Ravnica: City of Guilds",
+      "released_at": "2005-10-07",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Warping Wail",
+    "mtga_id": 96856,
+    "color": "",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/f/4/f461d613-518f-41cf-b08f-0778d40d3cf7.jpg?1752946513",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/f/2/f2ef4db8-b51c-4f52-84f1-6fee31c4a14c.jpg?1748988247",
+      "set_name": "Oath of the Gatewatch",
+      "released_at": "2016-01-22",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Deafening Silence",
+    "mtga_id": 96857,
+    "color": "W",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/d/0/d0269de7-f273-44ac-806b-a36a5cfc6812.jpg?1752946517",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/6/0/6072d9b0-d3c7-46f4-bd24-095bb13c4dea.jpg?1572489660",
+      "set_name": "Throne of Eldraine",
+      "released_at": "2019-10-04",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Robe of Stars",
+    "mtga_id": 96858,
+    "color": "W",
+    "rarity": "rare",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/c/8/c89a70e9-c180-483d-8a76-951b52162fda.jpg?1753281401",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/2/b2992175-5499-4a83-9ff2-03c7c34819c3.jpg?1631584758",
+      "set_name": "Forgotten Realms Commander",
+      "released_at": "2021-07-23",
+      "set_type": "commander"
+    }
+  },
+  {
+    "name": "Nexus of Fate",
+    "mtga_id": 96859,
+    "color": "U",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.5395894428152492,
+    "url": "https://cards.scryfall.io/large/front/5/0/506dab4a-9b63-4f9f-897f-7bb06fea871f.jpg?1752946526",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/f/1/f163cfbf-6df6-4af5-9fe4-23b0d511586a.jpg?1701735973",
+      "set_name": "Core Set 2019",
+      "released_at": "2018-07-13",
+      "set_type": "core"
+    }
+  },
+  {
+    "name": "Paradox Haze",
+    "mtga_id": 96860,
+    "color": "U",
+    "rarity": "uncommon",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/3/f/3f92e3ed-32f7-40e0-952d-08ca524579c3.jpg?1753281395",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/a/7/a7c74def-83e5-4420-989d-2304bf4743ae.jpg?1562930370",
+      "set_name": "Time Spiral",
+      "released_at": "2006-10-06",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Darkness",
+    "mtga_id": 96861,
+    "color": "B",
+    "rarity": "common",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/e/f/ef4c2c08-0a4d-4588-bc35-078da7120937.jpg?1753281388",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/5/3/53b04dab-45b7-418b-a0f0-bcf35145fc53.jpg?1562858734",
+      "set_name": "Legends",
+      "released_at": "1994-06-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Magus of the Moon",
+    "mtga_id": 96862,
+    "color": "R",
+    "rarity": "rare",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/d/8/d8b965ea-1b8e-475a-be58-78c0f815ea87.jpg?1753281360",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/c/0/c06a4443-6851-4873-8fb8-2ef76c9d6d2c.jpg?1562933679",
+      "set_name": "Future Sight",
+      "released_at": "2007-05-04",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Burgeoning",
+    "mtga_id": 96863,
+    "color": "G",
+    "rarity": "rare",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/a/5/a53c6a0e-9bbc-4a7b-8059-bc20806823d9.jpg?1753281382",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/f/a/fa9af8e5-bc97-4704-ae5c-e3d2d5b72586.jpg?1562597851",
+      "set_name": "Stronghold",
+      "released_at": "1998-03-02",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Green Sun's Zenith",
+    "mtga_id": 96864,
+    "color": "G",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5868210151380232,
+    "url": "https://cards.scryfall.io/large/front/b/0/b090cb9e-fcdd-4fc2-8e5d-b63511f83a13.jpg?1753281377",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/0/2/02335747-54e3-4827-ae19-4e362863da9b.jpg?1562609284",
+      "set_name": "Mirrodin Besieged",
+      "released_at": "2011-02-04",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Sliver Overlord",
+    "mtga_id": 96865,
+    "color": "WUBRG",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/9/f/9f1ae7a8-cb6a-4877-810a-f51a3951e7c3.jpg?1753281371",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/c/3c16915b-c50d-4fb5-830f-9ca4597a9c0f.jpg?1562527622",
+      "set_name": "Scourge",
+      "released_at": "2003-05-26",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Ancient Tomb",
+    "mtga_id": 97100,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.5481865284974093,
+    "url": "https://cards.scryfall.io/large/front/3/a/3afebe8a-9f21-4260-8e93-1ab1dff13c09.jpg?1752945591",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/0/30e401e3-282b-4524-87e1-c6cd50cd6d00.jpg?1562053283",
+      "set_name": "Tempest",
+      "released_at": "1997-10-14",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Blast Zone",
+    "mtga_id": 97101,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5543328748280605,
+    "url": "https://cards.scryfall.io/large/front/7/5/75a02940-4930-4cd6-ba20-a88efd6e82ce.jpg?1752945598",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/a/ea6bc7d5-e8f6-4103-920c-9f7ec5cd6c28.jpg?1557577452",
+      "set_name": "War of the Spark",
+      "released_at": "2019-05-03",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Blinkmoth Nexus",
+    "mtga_id": 97102,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5799934832192897,
+    "url": "https://cards.scryfall.io/large/front/7/6/765fad0a-50fe-4e19-87a1-c3ec70937f61.jpg?1752945606",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/f/bf51c665-7823-4d6a-b1da-8c2d93dae10b.jpg?1562639336",
+      "set_name": "Darksteel",
+      "released_at": "2004-02-06",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Bonders' Enclave",
+    "mtga_id": 97103,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5680789798436857,
+    "url": "https://cards.scryfall.io/large/front/0/2/02a16e1e-1ea8-49af-9cde-2166134f7bdc.jpg?1752945615",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/4/f/4fe9388d-b1ee-4f35-9fbd-5f504528b398.jpg?1591228614",
+      "set_name": "Ikoria: Lair of Behemoths",
+      "released_at": "2020-04-24",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Cascading Cataracts",
+    "mtga_id": 97104,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/f/7/f74406a2-61f5-4ee4-bfea-8ba74f186e91.jpg?1752945623",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/7/7/778739db-4431-4e58-91de-d2619aeef3ce.jpg?1543676358",
+      "set_name": "Amonkhet",
+      "released_at": "2017-04-28",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Cathedral of War",
+    "mtga_id": 97105,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.571604431678293,
+    "url": "https://cards.scryfall.io/large/front/d/6/d6ca2f32-dd29-4fd5-9d36-253209230ebd.jpg?1752945632",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/d/d/dd222c07-0b28-41cb-9237-ad7991ab078f.jpg?1562560901",
+      "set_name": "Magic 2013",
+      "released_at": "2012-07-13",
+      "set_type": "core"
+    }
+  },
+  {
+    "name": "Celestial Colonnade",
+    "mtga_id": 97106,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.6127295756808107,
+    "url": "https://cards.scryfall.io/large/front/c/a/ca60d7c8-4ceb-46c8-85be-30ba5879b130.jpg?1752945642",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/f/6/f6929259-2903-4f6f-9b06-42048fd55c6a.jpg?1562299346",
+      "set_name": "Worldwake",
+      "released_at": "2010-02-05",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Contested War Zone",
+    "mtga_id": 97107,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/1/6/1617ef81-5815-47e1-9532-2af791bbd5b3.jpg?1752945653",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/e/bee9b696-5203-4235-9bdd-f2a389d69813.jpg?1562614411",
+      "set_name": "Mirrodin Besieged",
+      "released_at": "2011-02-04",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Creeping Tar Pit",
+    "mtga_id": 97108,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.594316807738815,
+    "url": "https://cards.scryfall.io/large/front/a/2/a2184faf-6fa0-4d3c-b811-814beffe4320.jpg?1752945662",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/0/f/0f427f0b-034c-4821-8758-e395c0042d8a.jpg?1562282213",
+      "set_name": "Worldwake",
+      "released_at": "2010-02-05",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Crystal Quarry",
+    "mtga_id": 97109,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/b/e/be6c67b2-4142-4bb4-a707-6dba787f811e.jpg?1752945671",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/1/0/1012124a-5401-4bd1-a163-4633d934938f.jpg?1562898131",
+      "set_name": "Odyssey",
+      "released_at": "2001-10-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Deserted Temple",
+    "mtga_id": 97110,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/4/6/463d8132-fe98-4b71-b6a8-0feb4d40a391.jpg?1752945679",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/d/1/d1fa74b2-f9bd-4617-8b65-878781f3a2fd.jpg?1562934208",
+      "set_name": "Odyssey",
+      "released_at": "2001-10-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Dust Bowl",
+    "mtga_id": 97111,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/6/d/6d9b32b9-837f-438f-b0dd-1f8fb74b9e6b.jpg?1752945688",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/7/5/75b03c30-c2b8-4207-b675-26c59c40a7e5.jpg?1562381371",
+      "set_name": "Mercadian Masques",
+      "released_at": "1999-10-04",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Echoing Deeps",
+    "mtga_id": 97112,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/b/8/b8a61e4e-e51f-4175-be3a-1f71fefc966f.jpg?1752945690",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/2/4/244c06b3-532d-426e-8bee-ee9461d092a6.jpg?1699044671",
+      "set_name": "The Lost Caverns of Ixalan",
+      "released_at": "2023-11-17",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Eldrazi Temple",
+    "mtga_id": 97113,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/0/1/010abd40-3f9c-44bc-8570-d539750c3cd7.jpg?1752945697",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/1/315924c9-77e3-405b-9bbf-852ed563c6e3.jpg?1562702580",
+      "set_name": "Rise of the Eldrazi",
+      "released_at": "2010-04-23",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Endless Sands",
+    "mtga_id": 97114,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5246842709529277,
+    "url": "https://cards.scryfall.io/large/front/0/d/0d79548c-bcef-46b5-929c-efbaf72cb29e.jpg?1752945703",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/9/e/9ebd3e0a-30cc-4bc1-b9fa-6d65db9a6f5b.jpg?1562808778",
+      "set_name": "Hour of Devastation",
+      "released_at": "2017-07-14",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Gemstone Caverns",
+    "mtga_id": 97115,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/9/3/930ff1c5-7f34-47b8-8e8b-720909cc6a69.jpg?1752945706",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/9/4/94d74254-4750-4fb3-9e53-473a5f98b315.jpg?1562926487",
+      "set_name": "Time Spiral",
+      "released_at": "2006-10-06",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Grove of the Burnwillows",
+    "mtga_id": 97116,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.5368956743002544,
+    "url": "https://cards.scryfall.io/large/front/3/8/38900352-9087-4842-9a99-aceb862e5d70.jpg?1752945712",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/0/e0b4d4b1-6e25-4c4b-a21a-1b7b1c1d6452.jpg?1562940130",
+      "set_name": "Future Sight",
+      "released_at": "2007-05-04",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "High Market",
+    "mtga_id": 97117,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5321576763485477,
+    "url": "https://cards.scryfall.io/large/front/2/2/229c383b-305b-44b1-ba0f-fbe95bbd633f.jpg?1752945714",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/f/4/f4c58683-65a6-4df9-8952-458e397b1374.jpg?1562383991",
+      "set_name": "Mercadian Masques",
+      "released_at": "1999-10-04",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Hissing Quagmire",
+    "mtga_id": 97118,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.574818401937046,
+    "url": "https://cards.scryfall.io/large/front/d/9/d9bb686f-d66d-4de3-9497-a7d23d5c87b7.jpg?1752945721",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/6/e/6ef11b54-205a-48e9-92d0-5d416be869ef.jpg?1562917171",
+      "set_name": "Oath of the Gatewatch",
+      "released_at": "2016-01-22",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Inkmoth Nexus",
+    "mtga_id": 97119,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.5227995758218452,
+    "url": "https://cards.scryfall.io/large/front/4/c/4c65f0c0-e771-4236-a3aa-02a0104eb4bc.jpg?1752945723",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/c/ec50c1c3-885e-47d3-ada7-cc0edbf09df1.jpg?1623098818",
+      "set_name": "Mirrodin Besieged",
+      "released_at": "2011-02-04",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Inventors' Fair",
+    "mtga_id": 97120,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.5558475689881734,
+    "url": "https://cards.scryfall.io/large/front/0/6/06b24278-4d20-4d74-8be8-c8078e0a1873.jpg?1752945729",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/2/7/275471e3-ded1-40ac-91ef-369dce5764d9.jpg?1576383555",
+      "set_name": "Kaladesh",
+      "released_at": "2016-09-30",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Lavaclaw Reaches",
+    "mtga_id": 97121,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.6013729977116705,
+    "url": "https://cards.scryfall.io/large/front/5/7/5766b7ed-eb92-4c53-a5ad-577b5466ff6f.jpg?1752945731",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/c/7/c7066095-f05a-4f2e-ab9c-47c498608ccb.jpg?1562295701",
+      "set_name": "Worldwake",
+      "released_at": "2010-02-05",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Lotus Field",
+    "mtga_id": 97122,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/e/2/e2fdbc99-7696-434e-bbc5-366393ea7f04.jpg?1752945738",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/0/e/0e013033-3995-4ba8-b0c3-0614c79aaaab.jpg?1592517825",
+      "set_name": "Core Set 2020",
+      "released_at": "2019-07-12",
+      "set_type": "core"
+    }
+  },
+  {
+    "name": "Lumbering Falls",
+    "mtga_id": 97123,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5670028818443804,
+    "url": "https://cards.scryfall.io/large/front/d/7/d75fb845-e000-4f5d-9546-1fd610726aa2.jpg?1752945740",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/f/0/f0d8d2e4-3ebe-4311-b99e-dea9fb0b20ac.jpg?1562952171",
+      "set_name": "Battle for Zendikar",
+      "released_at": "2015-10-02",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Mana Confluence",
+    "mtga_id": 97124,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.5407523510971787,
+    "url": "https://cards.scryfall.io/large/front/a/3/a374b6ef-bd75-4eae-ac7a-09332b0a653d.jpg?1752945747",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/5/0/504a69eb-3c2d-4bb1-b117-252b15acf0c2.jpg?1593096534",
+      "set_name": "Journey into Nyx",
+      "released_at": "2014-05-02",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Meteor Crater",
+    "mtga_id": 97125,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/c/c/cc67cb3d-76ae-4394-9f45-41865b12edf5.jpg?1752945749",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/0/4/043a2299-1cfc-4732-a10a-58c773b9992c.jpg?1562895865",
+      "set_name": "Planeshift",
+      "released_at": "2001-02-05",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Mirrorpool",
+    "mtga_id": 97126,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/e/e/eebffbb3-5421-40e4-af92-999d8eb504f4.jpg?1752945755",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/d/edbea2b5-eed3-464b-9d5c-9591f309f298.jpg?1562942751",
+      "set_name": "Oath of the Gatewatch",
+      "released_at": "2016-01-22",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Mutavault",
+    "mtga_id": 97127,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.5684647302904564,
+    "url": "https://cards.scryfall.io/large/front/b/1/b13486fe-e5c7-47bf-abe7-d252fd4db459.jpg?1752945759",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/8/c/8ca3c48b-f104-4292-9a4e-2ce87a65893c.jpg?1562879924",
+      "set_name": "Morningtide",
+      "released_at": "2008-02-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Mystifying Maze",
+    "mtga_id": 97128,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.540785498489426,
+    "url": "https://cards.scryfall.io/large/front/2/5/2520c11e-5751-493e-bdae-defe2e05e448.jpg?1752945763",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/1/6/16e92409-d301-49f5-a8a9-acd531a928d4.jpg?1562451941",
+      "set_name": "Magic 2011",
+      "released_at": "2010-07-16",
+      "set_type": "core"
+    }
+  },
+  {
+    "name": "Needle Spires",
+    "mtga_id": 97129,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5717722534081796,
+    "url": "https://cards.scryfall.io/large/front/0/8/08fb8639-a0bb-4ad7-86b0-46116a078556.jpg?1752945768",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/d/3d73700c-fa62-42be-aaca-5f8a50af20db.jpg?1562907411",
+      "set_name": "Oath of the Gatewatch",
+      "released_at": "2016-01-22",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Nesting Grounds",
+    "mtga_id": 97130,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/3/5/352b132b-7f97-46e3-8efd-238cb7f87b29.jpg?1752945770",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/c/f/cf559d4e-07a7-4ca4-b76a-d0615222cb60.jpg?1591319807",
+      "set_name": "Commander 2020",
+      "released_at": "2020-04-17",
+      "set_type": "commander"
+    }
+  },
+  {
+    "name": "Petrified Field",
+    "mtga_id": 97131,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/b/f/bf41d9f3-4e77-4b93-b153-d0aeb01ac312.jpg?1752945777",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/a/eaeaf9f2-d196-4607-a704-06f2315d8cc5.jpg?1562938986",
+      "set_name": "Odyssey",
+      "released_at": "2001-10-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Plaza of Heroes",
+    "mtga_id": 97132,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/c/5/c5653373-d4ed-4211-9393-c7839d2d0a73.jpg?1752945777",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/a/2/a2cfcf67-f83c-43af-9e2d-5513fcdde835.jpg?1673308344",
+      "set_name": "Dominaria United",
+      "released_at": "2022-09-09",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Power Depot",
+    "mtga_id": 97133,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.4948453608247423,
+    "url": "https://cards.scryfall.io/large/front/f/e/feaffb58-26e0-4f14-80af-681b785bb059.jpg?1752945785",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/0/3/032eba04-0a63-4823-85e1-64861330a8d7.jpg?1626099742",
+      "set_name": "Modern Horizons 2",
+      "released_at": "2021-06-18",
+      "set_type": "draft_innovation"
+    }
+  },
+  {
+    "name": "Raging Ravine",
+    "mtga_id": 97134,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5762433210028771,
+    "url": "https://cards.scryfall.io/large/front/e/d/ed878350-ebc3-419b-9dd9-384e44906569.jpg?1752945785",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/c/b/cb7b6fb5-4d38-4734-b46f-923322cff24e.jpg?1562296161",
+      "set_name": "Worldwake",
+      "released_at": "2010-02-05",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Reflecting Pool",
+    "mtga_id": 97135,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.5238095238095238,
+    "url": "https://cards.scryfall.io/large/front/2/b/2b4e8ad6-7a60-43d6-a402-c91284993c14.jpg?1752945793",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/7/b/7b633ac2-bf98-42bd-8c26-8737a7d8edc7.jpg?1562054953",
+      "set_name": "Tempest",
+      "released_at": "1997-10-14",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Scavenger Grounds",
+    "mtga_id": 97136,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/c/2/c287ec37-c54e-4df8-a7be-50d6c4ffc744.jpg?1752945794",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/6/c/6cd91eeb-7abf-4538-91dc-47c736dfc237.jpg?1562802684",
+      "set_name": "Hour of Devastation",
+      "released_at": "2017-07-14",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Shambling Vent",
+    "mtga_id": 97137,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5783641160949868,
+    "url": "https://cards.scryfall.io/large/front/7/f/7f39bc7a-129e-4d52-8024-396c06906a45.jpg?1752945800",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/0/30a73816-1f33-4798-a9d6-5f0410d19625.jpg?1562906381",
+      "set_name": "Battle for Zendikar",
+      "released_at": "2015-10-02",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Stirring Wildwood",
+    "mtga_id": 97138,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.581799591002045,
+    "url": "https://cards.scryfall.io/large/front/7/5/75ea63a8-3046-4578-a190-72efa34f8d88.jpg?1752945803",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/d/5/d556d10b-83cc-4736-b269-4ce65aae2837.jpg?1562296742",
+      "set_name": "Worldwake",
+      "released_at": "2010-02-05",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Strip Mine",
+    "mtga_id": 97139,
+    "color": "",
+    "rarity": "mythic",
+    "ever_drawn_win_rate": 0.5595065312046444,
+    "url": "https://cards.scryfall.io/large/front/6/2/62aa232c-6034-4417-95a6-77b3a81c505c.jpg?1752945808",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/7/e7880157-7f27-4f1b-9cdc-ab36a6252376.jpg?1562943840",
+      "set_name": "Antiquities",
+      "released_at": "1994-03-04",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Sunken Citadel",
+    "mtga_id": 97140,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5547445255474452,
+    "url": "https://cards.scryfall.io/large/front/a/1/a12a9d09-7b6a-4207-96db-0d968cbdc09c.jpg?1752945811",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/3/e/3e1c9b1a-e306-47bb-9f68-2083660319c0.jpg?1699044711",
+      "set_name": "The Lost Caverns of Ixalan",
+      "released_at": "2023-11-17",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Swarmyard",
+    "mtga_id": 97141,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5790349417637272,
+    "url": "https://cards.scryfall.io/large/front/2/b/2b4ee0e7-7528-4fdc-a768-055d2c097f05.jpg?1752945815",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/2/5/25bfe849-a508-4fa8-8999-909fe8ec34fa.jpg?1562902904",
+      "set_name": "Time Spiral",
+      "released_at": "2006-10-06",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Terrain Generator",
+    "mtga_id": 97142,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/9/7/97b4d936-a7d6-4d43-87b5-0378f57e9e61.jpg?1752945819",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/e/6/e6fe66a2-8e70-414f-bedb-8f1f85f1d2d9.jpg?1562632596",
+      "set_name": "Nemesis",
+      "released_at": "2000-02-14",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Thespian's Stage",
+    "mtga_id": 97143,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": null,
+    "url": "https://cards.scryfall.io/large/front/d/c/dc03cbbf-6157-48ee-9687-c91513a95f18.jpg?1752945823",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/b/6/b6f27909-e5cd-44c0-91c4-21624f692fd9.jpg?1561843043",
+      "set_name": "Gatecrash",
+      "released_at": "2013-02-01",
+      "set_type": "expansion"
+    }
+  },
+  {
+    "name": "Wandering Fumarole",
+    "mtga_id": 97144,
+    "color": "",
+    "rarity": "rare",
+    "ever_drawn_win_rate": 0.5583535108958838,
+    "url": "https://cards.scryfall.io/large/front/8/9/89d53010-d85f-48e4-bf75-c02e8942f508.jpg?1752945828",
+    "first_printing": {
+      "url": "https://cards.scryfall.io/large/front/d/d/dd0ee251-6c79-499b-8366-c281c989b061.jpg?1562939445",
+      "set_name": "Oath of the Gatewatch",
+      "released_at": "2016-01-22",
+      "set_type": "expansion"
+    }
+  }
+]

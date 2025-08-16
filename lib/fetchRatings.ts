@@ -1,5 +1,6 @@
 import { CURRENT_SET_CODE } from "./config";
 import { CardRating } from "../types/ratings";
+import firstPrintings from "../scripts/eoe-first-printings.json";
 
 const chars = "awsg6x9h34j572uqr8feckz";
 
@@ -19,37 +20,6 @@ export const encode = (id: number) => {
   return rest.map((i) => chars.at(i)).join("");
 };
 
-// Function to get first printing image from Scryfall
-async function getFirstPrintingImage(cardName: string): Promise<string | null> {
-  try {
-    // Search for the card on Scryfall
-    const searchResponse = await fetch(
-      `https://api.scryfall.com/cards/search?q=${encodeURIComponent(
-        cardName
-      )}&unique=prints&order=released`,
-      { next: { revalidate: 3600 } }
-    );
-
-    if (!searchResponse.ok) return null;
-
-    const searchData = await searchResponse.json();
-    if (!searchData.data || searchData.data.length === 0) return null;
-
-    // Get the oldest nonfoil printing
-    const firstPrinting = searchData.data
-      .filter((c: { nonfoil: boolean }) => c.nonfoil)
-      .at(-1);
-    return (
-      firstPrinting.image_uris?.large ||
-      firstPrinting.image_uris?.normal ||
-      null
-    );
-  } catch (error) {
-    console.error(`Failed to fetch first printing for ${cardName}:`, error);
-    return null;
-  }
-}
-
 export async function getCachedCardRatings(
   boomerMode: boolean = false
 ): Promise<CardRating[]> {
@@ -66,16 +36,13 @@ export async function getCachedCardRatings(
   // If boomer mode is enabled, fetch first printing images for each card
   let processedCards = data;
   if (boomerMode) {
-    const cardsWithFirstPrintings = await Promise.all(
-      data.map(async (card) => {
-        const firstPrintingUrl = await getFirstPrintingImage(card.name);
-        return {
-          ...card,
-          first_printing_url: firstPrintingUrl || card.url, // Fallback to original URL if first printing not found
-        };
-      })
-    );
-    processedCards = cardsWithFirstPrintings;
+    processedCards = data.map((card) => {
+      return {
+        ...card,
+        first_printing_url: firstPrintings.find((c) => c.name === card.name)
+          ?.first_printing.url,
+      };
+    });
   }
 
   return processedCards
