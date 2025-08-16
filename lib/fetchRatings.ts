@@ -36,7 +36,7 @@ async function getFirstPrintingImage(cardName: string): Promise<string | null> {
     if (!searchData.data || searchData.data.length === 0) return null;
 
     // Get the oldest nonfoil printing
-    const firstPrinting = searchData.data.filter((c) => c.nonfoil).at(-1);
+    const firstPrinting = searchData.data.filter((c: any) => c.nonfoil).at(-1);
     return (
       firstPrinting.image_uris?.large ||
       firstPrinting.image_uris?.normal ||
