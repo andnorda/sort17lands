@@ -16,7 +16,7 @@ export default async function GamePage({
   const isBoomerMode = boomerMode === "true";
 
   try {
-    const ratings = await getCachedCardRatings(isBoomerMode);
+    const ratings = await getCachedCardRatings(isBoomerMode, set);
     const cards = game
       .match(/.{1,2}/g)
       ?.map((id) => ratings.find((c) => c.id === id)!);

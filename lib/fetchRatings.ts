@@ -1,6 +1,7 @@
 import { CURRENT_SET_CODE } from "./config";
 import { CardRating } from "../types/ratings";
-import firstPrintings from "../scripts/eoe-first-printings.json";
+import eoeFirstPrintings from "../scripts/eoe-first-printings.json";
+import finFirstPrintings from "../scripts/fin-first-printings.json";
 
 const chars = "awsg6x9h34j572uqr8feckz";
 
@@ -21,9 +22,11 @@ export const encode = (id: number) => {
 };
 
 export async function getCachedCardRatings(
-  boomerMode: boolean = false
+  boomerMode: boolean = false,
+  setCode?: string
 ): Promise<CardRating[]> {
-  const url = `https://www.17lands.com/card_ratings/data?expansion=${CURRENT_SET_CODE}&format=premierdraft`;
+  const expansion = (setCode ?? CURRENT_SET_CODE).toUpperCase();
+  const url = `https://www.17lands.com/card_ratings/data?expansion=${expansion}&format=premierdraft`;
   const res = await fetch(url, { next: { revalidate: 3600 } });
   if (!res.ok) {
     throw new Error(`Failed to fetch ratings: ${res.status} ${res.statusText}`);
@@ -36,11 +39,14 @@ export async function getCachedCardRatings(
   // If boomer mode is enabled, fetch first printing images for each card
   let processedCards = data;
   if (boomerMode) {
+    // Select the appropriate first printings data based on set
+    const firstPrintingsData = [...finFirstPrintings, ...eoeFirstPrintings];
+
     processedCards = data.map((card) => {
       return {
         ...card,
-        first_printing_url: firstPrintings.find((c) => c.name === card.name)
-          ?.first_printing.url,
+        first_printing_url: firstPrintingsData.find((c) => c.name === card.name)
+          ?.first_printing?.url,
       };
     });
   }
