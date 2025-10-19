@@ -26,7 +26,7 @@ export async function getCachedCardRatings(
   setCode?: string
 ): Promise<CardRating[]> {
   const expansion = (setCode ?? CURRENT_SET_CODE).toUpperCase();
-  const url = `https://www.17lands.com/card_ratings/data?expansion=${expansion}&format=premierdraft`;
+  const url = `https://www.17lands.com/card_ratings/data?expansion=${expansion}&format=premierdraft&start_date=0`; // start_date=0 is a hack for FDN
   const res = await fetch(url, { next: { revalidate: 3600 } });
   if (!res.ok) {
     throw new Error(`Failed to fetch ratings: ${res.status} ${res.statusText}`);
